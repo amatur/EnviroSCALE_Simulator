@@ -1,0 +1,47 @@
+{
+  "sensors":
+  [
+    { "name": "temp_hum",
+      "readlatency": 0.1,
+      "period": 10.0,
+      "size": 12,
+      "ro": 1,
+      "gamma": 1,
+      "bytes": 2
+    },
+
+    { "name" : "gps",
+      "readlatency": 0.05,
+      "period": 2.0,
+      "size": 20,
+      "ro": 1,
+      "gamma": 1,
+      "bytes": 5
+    },
+
+    { "name" : "ch4",
+      "readlatency": 0.01,
+      "period": 8.0,
+      "size": 8,
+      "ro" : 1,
+      "gamma": 1,
+      "bytes": 5
+    }
+    ,
+
+    { "name" : "co2",
+      "readlatency": 0.01,
+      "period": 8.0,
+      "size": 8,
+      "ro" : 1,
+      "gamma": 1,
+      "bytes": 5
+    }
+
+  ],
+  "params":{
+     "alpha" : 1000,
+     "beta" : 3,
+     "lambda" : 100
+  }
+}

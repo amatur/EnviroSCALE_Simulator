@@ -1,0 +1,3340 @@
+Rate 13.200000
+Time 0.000000 reading sensor Sensor::temp_hum current queue 12
+Time 0.000000 reading sensor Sensor::gps current queue 32
+Time 0.000000 reading sensor Sensor::ch4 current queue 40
+Time 0.000000 reading sensor Sensor::co2 current queue 48
+Time 0.000000 Uploading 0 bytes, remaining 48 in queue
+Time 0.000000 Upload completed
+Time 0.000000 Uploader down
+Time 0.010000 sensor Sensor::ch4 reading completed
+Time 0.010000 sensor Sensor::co2 reading completed
+Time 0.050000 sensor Sensor::gps reading completed
+Time 0.100000 sensor Sensor::temp_hum reading completed
+Time 0.537844 Uploader Up
+Time 0.537844 Uploading 12 bytes, remaining 36 in queue
+Time 0.657844 Upload completed
+----- 0.657844 delay encountered
+Time 2.050000 reading sensor Sensor::gps current queue 56
+Time 2.100000 sensor Sensor::gps reading completed
+Time 4.100000 reading sensor Sensor::gps current queue 76
+Time 4.150000 sensor Sensor::gps reading completed
+Time 5.000000 Uploading 56 bytes, remaining 20 in queue
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 5.560000 Upload completed
+----- 5.560000 delay encountered
+----- 5.560000 delay encountered
+----- 5.560000 delay encountered
+----- 3.510000 delay encountered
+Time 5.657844 Uploading 20 bytes, remaining 0 in queue
+Time 5.857844 Upload completed
+----- 1.757844 delay encountered
+Time 6.150000 reading sensor Sensor::gps current queue 20
+Time 6.200000 sensor Sensor::gps reading completed
+Time 8.010000 reading sensor Sensor::ch4 current queue 28
+Time 8.010000 reading sensor Sensor::co2 current queue 36
+Time 8.020000 sensor Sensor::ch4 reading completed
+Time 8.020000 sensor Sensor::co2 reading completed
+Time 8.200000 reading sensor Sensor::gps current queue 56
+Time 8.250000 sensor Sensor::gps reading completed
+Time 10.100000 reading sensor Sensor::temp_hum current queue 68
+Time 10.200000 sensor Sensor::temp_hum reading completed
+Time 10.250000 reading sensor Sensor::gps current queue 88
+Time 10.300000 sensor Sensor::gps reading completed
+Time 10.560000 Uploading 56 bytes, remaining 32 in queue
+Time 10.857844 Upload completed
+----- 4.707844 delay encountered
+----- 2.847844 delay encountered
+----- 2.847844 delay encountered
+----- 2.657844 delay encountered
+Time 11.120000 Uploading 12 bytes, remaining 20 in queue
+Time 11.240000 Upload completed
+----- 1.140000 delay encountered
+Time 12.300000 reading sensor Sensor::gps current queue 40
+Time 12.350000 sensor Sensor::gps reading completed
+Time 14.350000 reading sensor Sensor::gps current queue 60
+Time 14.400000 sensor Sensor::gps reading completed
+Time 15.857844 Uploading 60 bytes, remaining 0 in queue
+Time 16.020000 reading sensor Sensor::ch4 current queue 8
+Time 16.020000 reading sensor Sensor::co2 current queue 16
+Time 16.030000 sensor Sensor::ch4 reading completed
+Time 16.030000 sensor Sensor::co2 reading completed
+Time 16.240000 Upload completed
+----- 5.990000 delay encountered
+----- 3.940000 delay encountered
+----- 1.890000 delay encountered
+Time 16.400000 reading sensor Sensor::gps current queue 36
+Time 16.450000 sensor Sensor::gps reading completed
+Time 16.457844 Uploading 0 bytes, remaining 36 in queue
+Time 16.457844 Upload completed
+Time 18.450000 reading sensor Sensor::gps current queue 56
+Time 18.500000 sensor Sensor::gps reading completed
+Time 20.200000 reading sensor Sensor::temp_hum current queue 68
+Time 20.300000 sensor Sensor::temp_hum reading completed
+Time 20.500000 reading sensor Sensor::gps current queue 88
+Time 20.550000 sensor Sensor::gps reading completed
+Time 21.240000 Uploading 68 bytes, remaining 20 in queue
+Time 21.457844 Upload completed
+----- 5.437844 delay encountered
+----- 5.437844 delay encountered
+----- 5.057844 delay encountered
+----- 3.007844 delay encountered
+----- 1.257844 delay encountered
+Time 21.920000 Uploading 20 bytes, remaining 0 in queue
+Time 22.120000 Upload completed
+----- 1.620000 delay encountered
+Time 22.550000 reading sensor Sensor::gps current queue 20
+Time 22.600000 sensor Sensor::gps reading completed
+Time 24.030000 reading sensor Sensor::ch4 current queue 28
+Time 24.030000 reading sensor Sensor::co2 current queue 36
+Time 24.040000 sensor Sensor::ch4 reading completed
+Time 24.040000 sensor Sensor::co2 reading completed
+Time 24.600000 reading sensor Sensor::gps current queue 56
+Time 24.650000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 26.457844 Uploading 56 bytes, remaining 0 in queue
+Time 26.650000 reading sensor Sensor::gps current queue 20
+Time 26.700000 sensor Sensor::gps reading completed
+Time 27.017844 Upload completed
+----- 4.467844 delay encountered
+----- 2.987844 delay encountered
+----- 2.987844 delay encountered
+----- 2.417844 delay encountered
+Time 27.120000 Uploading 0 bytes, remaining 20 in queue
+Time 27.120000 Upload completed
+Time 28.700000 reading sensor Sensor::gps current queue 40
+Time 28.750000 sensor Sensor::gps reading completed
+Time 30.300000 reading sensor Sensor::temp_hum current queue 52
+Time 30.400000 sensor Sensor::temp_hum reading completed
+Time 30.750000 reading sensor Sensor::gps current queue 72
+Time 30.800000 sensor Sensor::gps reading completed
+Time 32.017844 Uploading 72 bytes, remaining 0 in queue
+Time 32.040000 reading sensor Sensor::ch4 current queue 8
+Time 32.040000 reading sensor Sensor::co2 current queue 16
+Time 32.050000 sensor Sensor::ch4 reading completed
+Time 32.050000 sensor Sensor::co2 reading completed
+Time 32.120000 Upload completed
+----- 5.470000 delay encountered
+----- 3.420000 delay encountered
+----- 1.820000 delay encountered
+----- 1.370000 delay encountered
+Time 32.737844 Uploading 0 bytes, remaining 16 in queue
+Time 32.737844 Upload completed
+Time 32.800000 reading sensor Sensor::gps current queue 36
+Time 32.850000 sensor Sensor::gps reading completed
+Time 34.850000 reading sensor Sensor::gps current queue 56
+Time 34.900000 sensor Sensor::gps reading completed
+Time 36.900000 reading sensor Sensor::gps current queue 76
+Time 36.950000 sensor Sensor::gps reading completed
+Time 37.120000 Uploading 56 bytes, remaining 20 in queue
+Time 37.680000 Upload completed
+----- 5.640000 delay encountered
+----- 5.640000 delay encountered
+----- 4.880000 delay encountered
+----- 2.830000 delay encountered
+Time 37.737844 Uploading 20 bytes, remaining 0 in queue
+Time 37.937844 Upload completed
+----- 1.037844 delay encountered
+Time 38.950000 reading sensor Sensor::gps current queue 20
+Time 39.000000 sensor Sensor::gps reading completed
+Time 40.050000 reading sensor Sensor::ch4 current queue 28
+Time 40.050000 reading sensor Sensor::co2 current queue 36
+Time 40.060000 sensor Sensor::ch4 reading completed
+Time 40.060000 sensor Sensor::co2 reading completed
+Time 40.400000 reading sensor Sensor::temp_hum current queue 48
+Time 40.500000 sensor Sensor::temp_hum reading completed
+Time 41.000000 reading sensor Sensor::gps current queue 68
+Time 41.050000 sensor Sensor::gps reading completed
+Time 42.680000 Uploading 68 bytes, remaining 0 in queue
+Time 42.937844 Upload completed
+----- 3.987844 delay encountered
+----- 2.887844 delay encountered
+----- 2.887844 delay encountered
+----- 2.537844 delay encountered
+----- 1.937844 delay encountered
+Time 43.050000 reading sensor Sensor::gps current queue 20
+Time 43.100000 sensor Sensor::gps reading completed
+Time 43.360000 Uploading 0 bytes, remaining 20 in queue
+Time 43.360000 Upload completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 45.100000 reading sensor Sensor::gps current queue 40
+Time 45.150000 sensor Sensor::gps reading completed
+Time 47.150000 reading sensor Sensor::gps current queue 60
+Time 47.200000 sensor Sensor::gps reading completed
+Time 47.937844 Uploading 60 bytes, remaining 0 in queue
+Time 48.060000 reading sensor Sensor::ch4 current queue 8
+Time 48.060000 reading sensor Sensor::co2 current queue 16
+Time 48.070000 sensor Sensor::ch4 reading completed
+Time 48.070000 sensor Sensor::co2 reading completed
+Time 48.360000 Upload completed
+----- 5.310000 delay encountered
+----- 3.260000 delay encountered
+----- 1.210000 delay encountered
+Time 48.537844 Uploading 0 bytes, remaining 16 in queue
+Time 48.537844 Upload completed
+Time 49.200000 reading sensor Sensor::gps current queue 36
+Time 49.250000 sensor Sensor::gps reading completed
+Time 50.500000 reading sensor Sensor::temp_hum current queue 48
+Time 50.600000 sensor Sensor::temp_hum reading completed
+Time 51.250000 reading sensor Sensor::gps current queue 68
+Time 51.300000 sensor Sensor::gps reading completed
+Time 53.300000 reading sensor Sensor::gps current queue 88
+Time 53.350000 sensor Sensor::gps reading completed
+Time 53.360000 Uploading 68 bytes, remaining 20 in queue
+Time 53.537844 Upload completed
+----- 5.477844 delay encountered
+----- 5.477844 delay encountered
+----- 4.337844 delay encountered
+----- 3.037844 delay encountered
+----- 2.287844 delay encountered
+Time 54.040000 Uploading 20 bytes, remaining 0 in queue
+Time 54.240000 Upload completed
+----- 0.940000 delay encountered
+Time 55.350000 reading sensor Sensor::gps current queue 20
+Time 55.400000 sensor Sensor::gps reading completed
+Time 56.070000 reading sensor Sensor::ch4 current queue 28
+Time 56.070000 reading sensor Sensor::co2 current queue 36
+Time 56.080000 sensor Sensor::ch4 reading completed
+Time 56.080000 sensor Sensor::co2 reading completed
+Time 57.400000 reading sensor Sensor::gps current queue 56
+Time 57.450000 sensor Sensor::gps reading completed
+Time 58.537844 Uploading 56 bytes, remaining 0 in queue
+Time 59.097844 Upload completed
+----- 3.747844 delay encountered
+----- 3.027844 delay encountered
+----- 3.027844 delay encountered
+----- 1.697844 delay encountered
+Time 59.240000 Uploading 0 bytes, remaining 0 in queue
+Time 59.240000 Upload completed
+Time 59.450000 reading sensor Sensor::gps current queue 20
+Time 59.500000 sensor Sensor::gps reading completed
+Time 60.600000 reading sensor Sensor::temp_hum current queue 32
+Time 60.700000 sensor Sensor::temp_hum reading completed
+Time 61.500000 reading sensor Sensor::gps current queue 52
+Time 61.550000 sensor Sensor::gps reading completed
+Time 63.550000 reading sensor Sensor::gps current queue 72
+Time 63.600000 sensor Sensor::gps reading completed
+Time 64.080000 reading sensor Sensor::ch4 current queue 80
+Time 64.080000 reading sensor Sensor::co2 current queue 88
+Time 64.090000 sensor Sensor::ch4 reading completed
+Time 64.090000 sensor Sensor::co2 reading completed
+Time 64.097844 Uploading 72 bytes, remaining 16 in queue
+Time 64.240000 Upload completed
+----- 4.790000 delay encountered
+----- 3.640000 delay encountered
+----- 2.740000 delay encountered
+----- 0.690000 delay encountered
+Time 64.817844 Uploading 0 bytes, remaining 16 in queue
+Time 64.817844 Upload completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 65.600000 reading sensor Sensor::gps current queue 36
+Time 65.650000 sensor Sensor::gps reading completed
+Time 67.650000 reading sensor Sensor::gps current queue 56
+Time 67.700000 sensor Sensor::gps reading completed
+Time 69.240000 Uploading 56 bytes, remaining 0 in queue
+Time 69.700000 reading sensor Sensor::gps current queue 20
+Time 69.750000 sensor Sensor::gps reading completed
+Time 69.800000 Upload completed
+----- 5.720000 delay encountered
+----- 5.720000 delay encountered
+----- 4.200000 delay encountered
+----- 2.150000 delay encountered
+Time 69.817844 Uploading 20 bytes, remaining 0 in queue
+Time 70.017844 Upload completed
+----- 0.317844 delay encountered
+Time 70.700000 reading sensor Sensor::temp_hum current queue 12
+Time 70.800000 sensor Sensor::temp_hum reading completed
+Time 71.750000 reading sensor Sensor::gps current queue 32
+Time 71.800000 sensor Sensor::gps reading completed
+Time 72.090000 reading sensor Sensor::ch4 current queue 40
+Time 72.090000 reading sensor Sensor::co2 current queue 48
+Time 72.100000 sensor Sensor::ch4 reading completed
+Time 72.100000 sensor Sensor::co2 reading completed
+Time 73.800000 reading sensor Sensor::gps current queue 68
+Time 73.850000 sensor Sensor::gps reading completed
+Time 74.800000 Uploading 68 bytes, remaining 0 in queue
+Time 75.017844 Upload completed
+----- 4.317844 delay encountered
+----- 3.267844 delay encountered
+----- 2.927844 delay encountered
+----- 2.927844 delay encountered
+----- 1.217844 delay encountered
+Time 75.480000 Uploading 0 bytes, remaining 0 in queue
+Time 75.480000 Upload completed
+Time 75.850000 reading sensor Sensor::gps current queue 20
+Time 75.900000 sensor Sensor::gps reading completed
+Time 77.900000 reading sensor Sensor::gps current queue 40
+Time 77.950000 sensor Sensor::gps reading completed
+Time 79.950000 reading sensor Sensor::gps current queue 60
+Time 80.000000 sensor Sensor::gps reading completed
+Time 80.017844 Uploading 60 bytes, remaining 0 in queue
+Time 80.100000 reading sensor Sensor::ch4 current queue 8
+Time 80.100000 reading sensor Sensor::co2 current queue 16
+Time 80.110000 sensor Sensor::ch4 reading completed
+Time 80.110000 sensor Sensor::co2 reading completed
+Time 80.480000 Upload completed
+----- 4.630000 delay encountered
+----- 2.580000 delay encountered
+----- 0.530000 delay encountered
+Time 80.617844 Uploading 0 bytes, remaining 16 in queue
+Time 80.617844 Upload completed
+Time 80.800000 reading sensor Sensor::temp_hum current queue 28
+Time 80.900000 sensor Sensor::temp_hum reading completed
+Time 82.000000 reading sensor Sensor::gps current queue 48
+Time 82.050000 sensor Sensor::gps reading completed
+Time 84.050000 reading sensor Sensor::gps current queue 68
+Time 84.100000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 85.480000 Uploading 68 bytes, remaining 0 in queue
+Time 85.617844 Upload completed
+----- 5.517844 delay encountered
+----- 5.517844 delay encountered
+----- 4.817844 delay encountered
+----- 3.617844 delay encountered
+----- 1.567844 delay encountered
+Time 86.100000 reading sensor Sensor::gps current queue 20
+Time 86.150000 sensor Sensor::gps reading completed
+Time 86.160000 Uploading 20 bytes, remaining 0 in queue
+Time 86.360000 Upload completed
+----- 0.260000 delay encountered
+Time 88.110000 reading sensor Sensor::ch4 current queue 8
+Time 88.110000 reading sensor Sensor::co2 current queue 16
+Time 88.120000 sensor Sensor::ch4 reading completed
+Time 88.120000 sensor Sensor::co2 reading completed
+Time 88.150000 reading sensor Sensor::gps current queue 36
+Time 88.200000 sensor Sensor::gps reading completed
+Time 90.200000 reading sensor Sensor::gps current queue 56
+Time 90.250000 sensor Sensor::gps reading completed
+Time 90.617844 Uploading 56 bytes, remaining 0 in queue
+Time 90.900000 reading sensor Sensor::temp_hum current queue 12
+Time 91.000000 sensor Sensor::temp_hum reading completed
+Time 91.177844 Upload completed
+----- 3.067844 delay encountered
+----- 3.067844 delay encountered
+----- 3.027844 delay encountered
+----- 0.977844 delay encountered
+Time 91.360000 Uploading 0 bytes, remaining 12 in queue
+Time 91.360000 Upload completed
+Time 92.250000 reading sensor Sensor::gps current queue 32
+Time 92.300000 sensor Sensor::gps reading completed
+Time 94.300000 reading sensor Sensor::gps current queue 52
+Time 94.350000 sensor Sensor::gps reading completed
+Time 96.120000 reading sensor Sensor::ch4 current queue 60
+Time 96.120000 reading sensor Sensor::co2 current queue 68
+Time 96.130000 sensor Sensor::ch4 reading completed
+Time 96.130000 sensor Sensor::co2 reading completed
+Time 96.177844 Uploading 60 bytes, remaining 8 in queue
+Time 96.350000 reading sensor Sensor::gps current queue 28
+Time 96.360000 Upload completed
+----- 5.460000 delay encountered
+----- 4.110000 delay encountered
+----- 2.060000 delay encountered
+----- 0.240000 delay encountered
+Time 96.400000 sensor Sensor::gps reading completed
+Time 96.777844 Uploading 8 bytes, remaining 20 in queue
+Time 96.857844 Upload completed
+----- 0.737844 delay encountered
+Time 98.400000 reading sensor Sensor::gps current queue 40
+Time 98.450000 sensor Sensor::gps reading completed
+Time 100.450000 reading sensor Sensor::gps current queue 60
+Time 100.500000 sensor Sensor::gps reading completed
+Time 101.000000 reading sensor Sensor::temp_hum current queue 72
+Time 101.100000 sensor Sensor::temp_hum reading completed
+Time 101.360000 Uploading 60 bytes, remaining 12 in queue
+Time 101.857844 Upload completed
+----- 5.507844 delay encountered
+----- 3.457844 delay encountered
+----- 1.407844 delay encountered
+Time 101.960000 Uploading 12 bytes, remaining 0 in queue
+Time 102.080000 Upload completed
+----- 1.080000 delay encountered
+Time 102.500000 reading sensor Sensor::gps current queue 20
+Time 102.550000 sensor Sensor::gps reading completed
+Time 104.130000 reading sensor Sensor::ch4 current queue 28
+Time 104.130000 reading sensor Sensor::co2 current queue 36
+Time 104.140000 sensor Sensor::ch4 reading completed
+Time 104.140000 sensor Sensor::co2 reading completed
+Time 104.550000 reading sensor Sensor::gps current queue 56
+Time 104.600000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 106.600000 reading sensor Sensor::gps current queue 76
+Time 106.650000 sensor Sensor::gps reading completed
+Time 106.857844 Uploading 76 bytes, remaining 0 in queue
+Time 107.080000 Upload completed
+----- 4.580000 delay encountered
+----- 2.950000 delay encountered
+----- 2.950000 delay encountered
+----- 2.530000 delay encountered
+----- 0.480000 delay encountered
+Time 107.617844 Uploading 0 bytes, remaining 0 in queue
+Time 107.617844 Upload completed
+Time 108.650000 reading sensor Sensor::gps current queue 20
+Time 108.700000 sensor Sensor::gps reading completed
+Time 110.700000 reading sensor Sensor::gps current queue 40
+Time 110.750000 sensor Sensor::gps reading completed
+Time 111.100000 reading sensor Sensor::temp_hum current queue 52
+Time 111.200000 sensor Sensor::temp_hum reading completed
+Time 112.080000 Uploading 52 bytes, remaining 0 in queue
+Time 112.140000 reading sensor Sensor::ch4 current queue 8
+Time 112.140000 reading sensor Sensor::co2 current queue 16
+Time 112.150000 sensor Sensor::ch4 reading completed
+Time 112.150000 sensor Sensor::co2 reading completed
+Time 112.600000 Upload completed
+----- 3.950000 delay encountered
+----- 1.900000 delay encountered
+----- 1.500000 delay encountered
+Time 112.617844 Uploading 8 bytes, remaining 8 in queue
+Time 112.697844 Upload completed
+----- 0.557844 delay encountered
+Time 112.750000 reading sensor Sensor::gps current queue 28
+Time 112.800000 sensor Sensor::gps reading completed
+Time 114.800000 reading sensor Sensor::gps current queue 48
+Time 114.850000 sensor Sensor::gps reading completed
+Time 116.850000 reading sensor Sensor::gps current queue 68
+Time 116.900000 sensor Sensor::gps reading completed
+Time 117.600000 Uploading 68 bytes, remaining 0 in queue
+Time 117.697844 Upload completed
+----- 5.557844 delay encountered
+----- 4.947844 delay encountered
+----- 2.897844 delay encountered
+----- 0.847844 delay encountered
+Time 118.280000 Uploading 0 bytes, remaining 0 in queue
+Time 118.280000 Upload completed
+Time 118.900000 reading sensor Sensor::gps current queue 20
+Time 118.950000 sensor Sensor::gps reading completed
+Time 120.150000 reading sensor Sensor::ch4 current queue 28
+Time 120.150000 reading sensor Sensor::co2 current queue 36
+Time 120.160000 sensor Sensor::ch4 reading completed
+Time 120.160000 sensor Sensor::co2 reading completed
+Time 120.950000 reading sensor Sensor::gps current queue 56
+Time 121.000000 sensor Sensor::gps reading completed
+Time 121.200000 reading sensor Sensor::temp_hum current queue 68
+Time 121.300000 sensor Sensor::temp_hum reading completed
+Time 122.697844 Uploading 68 bytes, remaining 0 in queue
+Time 123.000000 reading sensor Sensor::gps current queue 20
+Time 123.050000 sensor Sensor::gps reading completed
+Time 123.280000 Upload completed
+----- 4.380000 delay encountered
+----- 3.130000 delay encountered
+----- 3.130000 delay encountered
+----- 2.330000 delay encountered
+----- 2.080000 delay encountered
+Time 123.377844 Uploading 20 bytes, remaining 0 in queue
+Time 123.577844 Upload completed
+----- 0.577844 delay encountered
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 125.050000 reading sensor Sensor::gps current queue 20
+Time 125.100000 sensor Sensor::gps reading completed
+Time 127.100000 reading sensor Sensor::gps current queue 40
+Time 127.150000 sensor Sensor::gps reading completed
+Time 128.160000 reading sensor Sensor::ch4 current queue 48
+Time 128.160000 reading sensor Sensor::co2 current queue 56
+Time 128.170000 sensor Sensor::ch4 reading completed
+Time 128.170000 sensor Sensor::co2 reading completed
+Time 128.280000 Uploading 48 bytes, remaining 8 in queue
+Time 128.577844 Upload completed
+----- 3.527844 delay encountered
+----- 1.477844 delay encountered
+----- 0.417844 delay encountered
+Time 128.760000 Uploading 8 bytes, remaining 0 in queue
+Time 128.840000 Upload completed
+----- 0.680000 delay encountered
+Time 129.150000 reading sensor Sensor::gps current queue 20
+Time 129.200000 sensor Sensor::gps reading completed
+Time 131.200000 reading sensor Sensor::gps current queue 40
+Time 131.250000 sensor Sensor::gps reading completed
+Time 131.300000 reading sensor Sensor::temp_hum current queue 52
+Time 131.400000 sensor Sensor::temp_hum reading completed
+Time 133.250000 reading sensor Sensor::gps current queue 72
+Time 133.300000 sensor Sensor::gps reading completed
+Time 133.577844 Uploading 72 bytes, remaining 0 in queue
+Time 133.840000 Upload completed
+----- 4.690000 delay encountered
+----- 2.640000 delay encountered
+----- 2.540000 delay encountered
+----- 0.590000 delay encountered
+Time 134.297844 Uploading 0 bytes, remaining 0 in queue
+Time 134.297844 Upload completed
+Time 135.300000 reading sensor Sensor::gps current queue 20
+Time 135.350000 sensor Sensor::gps reading completed
+Time 136.170000 reading sensor Sensor::ch4 current queue 28
+Time 136.170000 reading sensor Sensor::co2 current queue 36
+Time 136.180000 sensor Sensor::ch4 reading completed
+Time 136.180000 sensor Sensor::co2 reading completed
+Time 137.350000 reading sensor Sensor::gps current queue 56
+Time 137.400000 sensor Sensor::gps reading completed
+Time 138.840000 Uploading 56 bytes, remaining 0 in queue
+Time 139.297844 Upload completed
+----- 3.997844 delay encountered
+----- 3.127844 delay encountered
+----- 3.127844 delay encountered
+----- 1.947844 delay encountered
+Time 139.400000 reading sensor Sensor::gps current queue 20
+Time 139.400000 Uploading 20 bytes, remaining 0 in queue
+Time 139.450000 sensor Sensor::gps reading completed
+Time 139.600000 Upload completed
+----- 0.200000 delay encountered
+Time 141.400000 reading sensor Sensor::temp_hum current queue 12
+Time 141.450000 reading sensor Sensor::gps current queue 32
+Time 141.500000 sensor Sensor::gps reading completed
+Time 141.500000 sensor Sensor::temp_hum reading completed
+Time 143.500000 reading sensor Sensor::gps current queue 52
+Time 143.550000 sensor Sensor::gps reading completed
+Time 144.180000 reading sensor Sensor::ch4 current queue 60
+Time 144.180000 reading sensor Sensor::co2 current queue 68
+Time 144.190000 sensor Sensor::ch4 reading completed
+Time 144.190000 sensor Sensor::co2 reading completed
+Time 144.297844 Uploading 52 bytes, remaining 16 in queue
+Time 144.600000 Upload completed
+----- 3.200000 delay encountered
+----- 3.150000 delay encountered
+----- 1.100000 delay encountered
+Time 144.817844 Uploading 8 bytes, remaining 8 in queue
+Time 144.897844 Upload completed
+----- 0.717844 delay encountered
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 145.550000 reading sensor Sensor::gps current queue 28
+Time 145.600000 sensor Sensor::gps reading completed
+Time 147.600000 reading sensor Sensor::gps current queue 48
+Time 147.650000 sensor Sensor::gps reading completed
+Time 149.600000 Uploading 48 bytes, remaining 0 in queue
+Time 149.650000 reading sensor Sensor::gps current queue 20
+Time 149.700000 sensor Sensor::gps reading completed
+Time 149.897844 Upload completed
+----- 5.717844 delay encountered
+----- 4.347844 delay encountered
+----- 2.297844 delay encountered
+Time 150.080000 Uploading 20 bytes, remaining 0 in queue
+Time 150.280000 Upload completed
+----- 0.630000 delay encountered
+Time 151.500000 reading sensor Sensor::temp_hum current queue 12
+Time 151.600000 sensor Sensor::temp_hum reading completed
+Time 151.700000 reading sensor Sensor::gps current queue 32
+Time 151.750000 sensor Sensor::gps reading completed
+Time 152.190000 reading sensor Sensor::ch4 current queue 40
+Time 152.190000 reading sensor Sensor::co2 current queue 48
+Time 152.200000 sensor Sensor::ch4 reading completed
+Time 152.200000 sensor Sensor::co2 reading completed
+Time 153.750000 reading sensor Sensor::gps current queue 68
+Time 153.800000 sensor Sensor::gps reading completed
+Time 154.897844 Uploading 68 bytes, remaining 0 in queue
+Time 155.280000 Upload completed
+----- 3.780000 delay encountered
+----- 3.580000 delay encountered
+----- 3.090000 delay encountered
+----- 3.090000 delay encountered
+----- 1.530000 delay encountered
+Time 155.577844 Uploading 0 bytes, remaining 0 in queue
+Time 155.577844 Upload completed
+Time 155.800000 reading sensor Sensor::gps current queue 20
+Time 155.850000 sensor Sensor::gps reading completed
+Time 157.850000 reading sensor Sensor::gps current queue 40
+Time 157.900000 sensor Sensor::gps reading completed
+Time 159.900000 reading sensor Sensor::gps current queue 60
+Time 159.950000 sensor Sensor::gps reading completed
+Time 160.200000 reading sensor Sensor::ch4 current queue 68
+Time 160.200000 reading sensor Sensor::co2 current queue 76
+Time 160.210000 sensor Sensor::ch4 reading completed
+Time 160.210000 sensor Sensor::co2 reading completed
+Time 160.280000 Uploading 68 bytes, remaining 8 in queue
+Time 160.577844 Upload completed
+----- 4.777844 delay encountered
+----- 2.727844 delay encountered
+----- 0.677844 delay encountered
+----- 0.377844 delay encountered
+Time 160.960000 Uploading 8 bytes, remaining 0 in queue
+Time 161.040000 Upload completed
+----- 0.840000 delay encountered
+Time 161.600000 reading sensor Sensor::temp_hum current queue 12
+Time 161.700000 sensor Sensor::temp_hum reading completed
+Time 161.950000 reading sensor Sensor::gps current queue 32
+Time 162.000000 sensor Sensor::gps reading completed
+Time 164.000000 reading sensor Sensor::gps current queue 52
+Time 164.050000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 165.577844 Uploading 52 bytes, remaining 0 in queue
+Time 166.040000 Upload completed
+----- 4.440000 delay encountered
+----- 4.090000 delay encountered
+----- 2.040000 delay encountered
+Time 166.050000 reading sensor Sensor::gps current queue 20
+Time 166.097844 Uploading 20 bytes, remaining 0 in queue
+Time 166.100000 sensor Sensor::gps reading completed
+Time 166.297844 Upload completed
+----- 0.247844 delay encountered
+Time 168.100000 reading sensor Sensor::gps current queue 20
+Time 168.150000 sensor Sensor::gps reading completed
+Time 168.210000 reading sensor Sensor::ch4 current queue 28
+Time 168.210000 reading sensor Sensor::co2 current queue 36
+Time 168.220000 sensor Sensor::ch4 reading completed
+Time 168.220000 sensor Sensor::co2 reading completed
+Time 170.150000 reading sensor Sensor::gps current queue 56
+Time 170.200000 sensor Sensor::gps reading completed
+Time 171.040000 Uploading 56 bytes, remaining 0 in queue
+Time 171.297844 Upload completed
+----- 3.197844 delay encountered
+----- 3.087844 delay encountered
+----- 3.087844 delay encountered
+----- 1.147844 delay encountered
+Time 171.600000 Uploading 0 bytes, remaining 0 in queue
+Time 171.600000 Upload completed
+Time 171.700000 reading sensor Sensor::temp_hum current queue 12
+Time 171.800000 sensor Sensor::temp_hum reading completed
+Time 172.200000 reading sensor Sensor::gps current queue 32
+Time 172.250000 sensor Sensor::gps reading completed
+Time 174.250000 reading sensor Sensor::gps current queue 52
+Time 174.300000 sensor Sensor::gps reading completed
+Time 176.220000 reading sensor Sensor::ch4 current queue 60
+Time 176.220000 reading sensor Sensor::co2 current queue 68
+Time 176.230000 sensor Sensor::ch4 reading completed
+Time 176.230000 sensor Sensor::co2 reading completed
+Time 176.297844 Uploading 68 bytes, remaining 0 in queue
+Time 176.300000 reading sensor Sensor::gps current queue 20
+Time 176.350000 sensor Sensor::gps reading completed
+Time 176.600000 Upload completed
+----- 4.900000 delay encountered
+----- 4.400000 delay encountered
+----- 2.350000 delay encountered
+----- 0.380000 delay encountered
+----- 0.380000 delay encountered
+Time 176.977844 Uploading 20 bytes, remaining 0 in queue
+Time 177.177844 Upload completed
+----- 0.877844 delay encountered
+Time 178.350000 reading sensor Sensor::gps current queue 20
+Time 178.400000 sensor Sensor::gps reading completed
+Time 180.400000 reading sensor Sensor::gps current queue 40
+Time 180.450000 sensor Sensor::gps reading completed
+Time 181.600000 Uploading 40 bytes, remaining 0 in queue
+Time 181.800000 reading sensor Sensor::temp_hum current queue 12
+Time 181.900000 sensor Sensor::temp_hum reading completed
+Time 182.000000 Upload completed
+----- 3.650000 delay encountered
+----- 1.600000 delay encountered
+Time 182.177844 Uploading 12 bytes, remaining 0 in queue
+Time 182.297844 Upload completed
+----- 0.497844 delay encountered
+Time 182.450000 reading sensor Sensor::gps current queue 20
+Time 182.500000 sensor Sensor::gps reading completed
+Time 184.230000 reading sensor Sensor::ch4 current queue 28
+Time 184.230000 reading sensor Sensor::co2 current queue 36
+Time 184.240000 sensor Sensor::ch4 reading completed
+Time 184.240000 sensor Sensor::co2 reading completed
+Time 184.500000 reading sensor Sensor::gps current queue 56
+Time 184.550000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 186.550000 reading sensor Sensor::gps current queue 76
+Time 186.600000 sensor Sensor::gps reading completed
+Time 187.000000 Uploading 76 bytes, remaining 0 in queue
+Time 187.297844 Upload completed
+----- 4.847844 delay encountered
+----- 3.067844 delay encountered
+----- 3.067844 delay encountered
+----- 2.797844 delay encountered
+----- 0.747844 delay encountered
+Time 187.760000 Uploading 0 bytes, remaining 0 in queue
+Time 187.760000 Upload completed
+Time 188.600000 reading sensor Sensor::gps current queue 20
+Time 188.650000 sensor Sensor::gps reading completed
+Time 190.650000 reading sensor Sensor::gps current queue 40
+Time 190.700000 sensor Sensor::gps reading completed
+Time 191.900000 reading sensor Sensor::temp_hum current queue 52
+Time 192.000000 sensor Sensor::temp_hum reading completed
+Time 192.240000 reading sensor Sensor::ch4 current queue 60
+Time 192.240000 reading sensor Sensor::co2 current queue 68
+Time 192.250000 sensor Sensor::ch4 reading completed
+Time 192.250000 sensor Sensor::co2 reading completed
+Time 192.297844 Uploading 68 bytes, remaining 0 in queue
+Time 192.700000 reading sensor Sensor::gps current queue 20
+Time 192.750000 sensor Sensor::gps reading completed
+Time 192.760000 Upload completed
+----- 4.160000 delay encountered
+----- 2.110000 delay encountered
+----- 0.860000 delay encountered
+----- 0.520000 delay encountered
+----- 0.520000 delay encountered
+Time 192.977844 Uploading 20 bytes, remaining 0 in queue
+Time 193.177844 Upload completed
+----- 0.477844 delay encountered
+Time 194.750000 reading sensor Sensor::gps current queue 20
+Time 194.800000 sensor Sensor::gps reading completed
+Time 196.800000 reading sensor Sensor::gps current queue 40
+Time 196.850000 sensor Sensor::gps reading completed
+Time 197.760000 Uploading 40 bytes, remaining 0 in queue
+Time 198.160000 Upload completed
+----- 3.410000 delay encountered
+----- 1.360000 delay encountered
+Time 198.177844 Uploading 0 bytes, remaining 0 in queue
+Time 198.177844 Upload completed
+Time 198.850000 reading sensor Sensor::gps current queue 20
+Time 198.900000 sensor Sensor::gps reading completed
+Time 200.250000 reading sensor Sensor::ch4 current queue 28
+Time 200.250000 reading sensor Sensor::co2 current queue 36
+Time 200.260000 sensor Sensor::ch4 reading completed
+Time 200.260000 sensor Sensor::co2 reading completed
+Time 200.900000 reading sensor Sensor::gps current queue 56
+Time 200.950000 sensor Sensor::gps reading completed
+Time 202.000000 reading sensor Sensor::temp_hum current queue 68
+Time 202.100000 sensor Sensor::temp_hum reading completed
+Time 202.950000 reading sensor Sensor::gps current queue 88
+Time 203.000000 sensor Sensor::gps reading completed
+Time 203.160000 Uploading 88 bytes, remaining 0 in queue
+Time 203.177844 Upload completed
+----- 4.327844 delay encountered
+----- 2.927844 delay encountered
+----- 2.927844 delay encountered
+----- 2.277844 delay encountered
+----- 1.177844 delay encountered
+----- 0.227844 delay encountered
+Time 204.040000 Uploading 0 bytes, remaining 0 in queue
+Time 204.040000 Upload completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 205.000000 reading sensor Sensor::gps current queue 20
+Time 205.050000 sensor Sensor::gps reading completed
+Time 207.050000 reading sensor Sensor::gps current queue 40
+Time 207.100000 sensor Sensor::gps reading completed
+Time 208.177844 Uploading 40 bytes, remaining 0 in queue
+Time 208.260000 reading sensor Sensor::ch4 current queue 8
+Time 208.260000 reading sensor Sensor::co2 current queue 16
+Time 208.270000 sensor Sensor::ch4 reading completed
+Time 208.270000 sensor Sensor::co2 reading completed
+Time 208.577844 Upload completed
+----- 3.577844 delay encountered
+----- 1.527844 delay encountered
+Time 209.040000 Uploading 16 bytes, remaining 0 in queue
+Time 209.100000 reading sensor Sensor::gps current queue 20
+Time 209.150000 sensor Sensor::gps reading completed
+Time 209.200000 Upload completed
+----- 0.940000 delay encountered
+----- 0.940000 delay encountered
+Time 211.150000 reading sensor Sensor::gps current queue 40
+Time 211.200000 sensor Sensor::gps reading completed
+Time 212.100000 reading sensor Sensor::temp_hum current queue 52
+Time 212.200000 sensor Sensor::temp_hum reading completed
+Time 213.200000 reading sensor Sensor::gps current queue 72
+Time 213.250000 sensor Sensor::gps reading completed
+Time 213.577844 Uploading 72 bytes, remaining 0 in queue
+Time 214.200000 Upload completed
+----- 5.100000 delay encountered
+----- 3.050000 delay encountered
+----- 2.100000 delay encountered
+----- 1.000000 delay encountered
+Time 214.297844 Uploading 0 bytes, remaining 0 in queue
+Time 214.297844 Upload completed
+Time 215.250000 reading sensor Sensor::gps current queue 20
+Time 215.300000 sensor Sensor::gps reading completed
+Time 216.270000 reading sensor Sensor::ch4 current queue 28
+Time 216.270000 reading sensor Sensor::co2 current queue 36
+Time 216.280000 sensor Sensor::ch4 reading completed
+Time 216.280000 sensor Sensor::co2 reading completed
+Time 217.300000 reading sensor Sensor::gps current queue 56
+Time 217.350000 sensor Sensor::gps reading completed
+Time 219.200000 Uploading 56 bytes, remaining 0 in queue
+Time 219.297844 Upload completed
+----- 4.047844 delay encountered
+----- 3.027844 delay encountered
+----- 3.027844 delay encountered
+----- 1.997844 delay encountered
+Time 219.350000 reading sensor Sensor::gps current queue 20
+Time 219.400000 sensor Sensor::gps reading completed
+Time 219.760000 Uploading 20 bytes, remaining 0 in queue
+Time 219.960000 Upload completed
+----- 0.610000 delay encountered
+Time 221.400000 reading sensor Sensor::gps current queue 20
+Time 221.450000 sensor Sensor::gps reading completed
+Time 222.200000 reading sensor Sensor::temp_hum current queue 32
+Time 222.300000 sensor Sensor::temp_hum reading completed
+Time 223.450000 reading sensor Sensor::gps current queue 52
+Time 223.500000 sensor Sensor::gps reading completed
+Time 224.280000 reading sensor Sensor::ch4 current queue 60
+Time 224.280000 reading sensor Sensor::co2 current queue 68
+Time 224.290000 sensor Sensor::ch4 reading completed
+Time 224.290000 sensor Sensor::co2 reading completed
+Time 224.297844 Uploading 60 bytes, remaining 8 in queue
+Time 224.897844 Upload completed
+----- 3.497844 delay encountered
+----- 2.697844 delay encountered
+----- 1.447844 delay encountered
+----- 0.617844 delay encountered
+Time 224.960000 Uploading 8 bytes, remaining 0 in queue
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 225.040000 Upload completed
+----- 0.760000 delay encountered
+Time 225.500000 reading sensor Sensor::gps current queue 20
+Time 225.550000 sensor Sensor::gps reading completed
+Time 227.550000 reading sensor Sensor::gps current queue 40
+Time 227.600000 sensor Sensor::gps reading completed
+Time 229.600000 reading sensor Sensor::gps current queue 60
+Time 229.650000 sensor Sensor::gps reading completed
+Time 229.897844 Uploading 60 bytes, remaining 0 in queue
+Time 230.040000 Upload completed
+----- 4.540000 delay encountered
+----- 2.490000 delay encountered
+----- 0.440000 delay encountered
+Time 230.497844 Uploading 0 bytes, remaining 0 in queue
+Time 230.497844 Upload completed
+Time 231.650000 reading sensor Sensor::gps current queue 20
+Time 231.700000 sensor Sensor::gps reading completed
+Time 232.290000 reading sensor Sensor::ch4 current queue 28
+Time 232.290000 reading sensor Sensor::co2 current queue 36
+Time 232.300000 sensor Sensor::ch4 reading completed
+Time 232.300000 sensor Sensor::co2 reading completed
+Time 232.300000 reading sensor Sensor::temp_hum current queue 48
+Time 232.400000 sensor Sensor::temp_hum reading completed
+Time 233.700000 reading sensor Sensor::gps current queue 68
+Time 233.750000 sensor Sensor::gps reading completed
+Time 235.040000 Uploading 68 bytes, remaining 0 in queue
+Time 235.497844 Upload completed
+----- 3.847844 delay encountered
+----- 3.207844 delay encountered
+----- 3.207844 delay encountered
+----- 3.197844 delay encountered
+----- 1.797844 delay encountered
+Time 235.720000 Uploading 0 bytes, remaining 0 in queue
+Time 235.720000 Upload completed
+Time 235.750000 reading sensor Sensor::gps current queue 20
+Time 235.800000 sensor Sensor::gps reading completed
+Time 237.800000 reading sensor Sensor::gps current queue 40
+Time 237.850000 sensor Sensor::gps reading completed
+Time 239.850000 reading sensor Sensor::gps current queue 60
+Time 239.900000 sensor Sensor::gps reading completed
+Time 240.300000 reading sensor Sensor::ch4 current queue 68
+Time 240.300000 reading sensor Sensor::co2 current queue 76
+Time 240.310000 sensor Sensor::ch4 reading completed
+Time 240.310000 sensor Sensor::co2 reading completed
+Time 240.497844 Uploading 76 bytes, remaining 0 in queue
+Time 240.720000 Upload completed
+----- 4.970000 delay encountered
+----- 2.920000 delay encountered
+----- 0.870000 delay encountered
+----- 0.420000 delay encountered
+----- 0.420000 delay encountered
+Time 241.257844 Uploading 0 bytes, remaining 0 in queue
+Time 241.257844 Upload completed
+Time 241.900000 reading sensor Sensor::gps current queue 20
+Time 241.950000 sensor Sensor::gps reading completed
+Time 242.400000 reading sensor Sensor::temp_hum current queue 32
+Time 242.500000 sensor Sensor::temp_hum reading completed
+Time 243.950000 reading sensor Sensor::gps current queue 52
+Time 244.000000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 245.720000 Uploading 52 bytes, remaining 0 in queue
+Time 246.000000 reading sensor Sensor::gps current queue 20
+Time 246.050000 sensor Sensor::gps reading completed
+Time 246.240000 Upload completed
+----- 4.340000 delay encountered
+----- 3.840000 delay encountered
+----- 2.290000 delay encountered
+Time 246.257844 Uploading 20 bytes, remaining 0 in queue
+Time 246.457844 Upload completed
+----- 0.457844 delay encountered
+Time 248.050000 reading sensor Sensor::gps current queue 20
+Time 248.100000 sensor Sensor::gps reading completed
+Time 248.310000 reading sensor Sensor::ch4 current queue 28
+Time 248.310000 reading sensor Sensor::co2 current queue 36
+Time 248.320000 sensor Sensor::ch4 reading completed
+Time 248.320000 sensor Sensor::co2 reading completed
+Time 250.100000 reading sensor Sensor::gps current queue 56
+Time 250.150000 sensor Sensor::gps reading completed
+Time 251.240000 Uploading 56 bytes, remaining 0 in queue
+Time 251.457844 Upload completed
+----- 3.407844 delay encountered
+----- 3.147844 delay encountered
+----- 3.147844 delay encountered
+----- 1.357844 delay encountered
+Time 251.800000 Uploading 0 bytes, remaining 0 in queue
+Time 251.800000 Upload completed
+Time 252.150000 reading sensor Sensor::gps current queue 20
+Time 252.200000 sensor Sensor::gps reading completed
+Time 252.500000 reading sensor Sensor::temp_hum current queue 32
+Time 252.600000 sensor Sensor::temp_hum reading completed
+Time 254.200000 reading sensor Sensor::gps current queue 52
+Time 254.250000 sensor Sensor::gps reading completed
+Time 256.250000 reading sensor Sensor::gps current queue 72
+Time 256.300000 sensor Sensor::gps reading completed
+Time 256.320000 reading sensor Sensor::ch4 current queue 80
+Time 256.320000 reading sensor Sensor::co2 current queue 88
+Time 256.330000 sensor Sensor::ch4 reading completed
+Time 256.330000 sensor Sensor::co2 reading completed
+Time 256.457844 Uploading 80 bytes, remaining 8 in queue
+Time 256.800000 Upload completed
+----- 4.650000 delay encountered
+----- 4.300000 delay encountered
+----- 2.600000 delay encountered
+----- 0.550000 delay encountered
+----- 0.480000 delay encountered
+Time 257.257844 Uploading 8 bytes, remaining 0 in queue
+Time 257.337844 Upload completed
+----- 1.017844 delay encountered
+Time 258.300000 reading sensor Sensor::gps current queue 20
+Time 258.350000 sensor Sensor::gps reading completed
+Time 260.350000 reading sensor Sensor::gps current queue 40
+Time 260.400000 sensor Sensor::gps reading completed
+Time 261.800000 Uploading 40 bytes, remaining 0 in queue
+Time 262.200000 Upload completed
+----- 3.900000 delay encountered
+----- 1.850000 delay encountered
+Time 262.337844 Uploading 0 bytes, remaining 0 in queue
+Time 262.337844 Upload completed
+Time 262.400000 reading sensor Sensor::gps current queue 20
+Time 262.450000 sensor Sensor::gps reading completed
+Time 262.600000 reading sensor Sensor::temp_hum current queue 32
+Time 262.700000 sensor Sensor::temp_hum reading completed
+Time 264.330000 reading sensor Sensor::ch4 current queue 40
+Time 264.330000 reading sensor Sensor::co2 current queue 48
+Time 264.340000 sensor Sensor::ch4 reading completed
+Time 264.340000 sensor Sensor::co2 reading completed
+Time 264.450000 reading sensor Sensor::gps current queue 68
+Time 264.500000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 266.500000 reading sensor Sensor::gps current queue 88
+Time 266.550000 sensor Sensor::gps reading completed
+Time 267.200000 Uploading 88 bytes, remaining 0 in queue
+Time 267.337844 Upload completed
+----- 4.937844 delay encountered
+----- 4.737844 delay encountered
+----- 3.007844 delay encountered
+----- 3.007844 delay encountered
+----- 2.887844 delay encountered
+----- 0.837844 delay encountered
+Time 268.080000 Uploading 0 bytes, remaining 0 in queue
+Time 268.080000 Upload completed
+Time 268.550000 reading sensor Sensor::gps current queue 20
+Time 268.600000 sensor Sensor::gps reading completed
+Time 270.600000 reading sensor Sensor::gps current queue 40
+Time 270.650000 sensor Sensor::gps reading completed
+Time 272.337844 Uploading 40 bytes, remaining 0 in queue
+Time 272.340000 reading sensor Sensor::ch4 current queue 8
+Time 272.340000 reading sensor Sensor::co2 current queue 16
+Time 272.350000 sensor Sensor::ch4 reading completed
+Time 272.350000 sensor Sensor::co2 reading completed
+Time 272.650000 reading sensor Sensor::gps current queue 36
+Time 272.700000 reading sensor Sensor::temp_hum current queue 48
+Time 272.700000 sensor Sensor::gps reading completed
+Time 272.737844 Upload completed
+----- 4.187844 delay encountered
+----- 2.137844 delay encountered
+Time 272.800000 sensor Sensor::temp_hum reading completed
+Time 273.080000 Uploading 48 bytes, remaining 0 in queue
+Time 273.560000 Upload completed
+----- 1.220000 delay encountered
+----- 1.220000 delay encountered
+----- 0.910000 delay encountered
+----- 0.860000 delay encountered
+Time 274.700000 reading sensor Sensor::gps current queue 20
+Time 274.750000 sensor Sensor::gps reading completed
+Time 276.750000 reading sensor Sensor::gps current queue 40
+Time 276.800000 sensor Sensor::gps reading completed
+Time 277.737844 Uploading 40 bytes, remaining 0 in queue
+Time 278.137844 Upload completed
+----- 3.437844 delay encountered
+----- 1.387844 delay encountered
+Time 278.560000 Uploading 0 bytes, remaining 0 in queue
+Time 278.560000 Upload completed
+Time 278.800000 reading sensor Sensor::gps current queue 20
+Time 278.850000 sensor Sensor::gps reading completed
+Time 280.350000 reading sensor Sensor::ch4 current queue 28
+Time 280.350000 reading sensor Sensor::co2 current queue 36
+Time 280.360000 sensor Sensor::ch4 reading completed
+Time 280.360000 sensor Sensor::co2 reading completed
+Time 280.850000 reading sensor Sensor::gps current queue 56
+Time 280.900000 sensor Sensor::gps reading completed
+Time 282.800000 reading sensor Sensor::temp_hum current queue 68
+Time 282.900000 sensor Sensor::temp_hum reading completed
+Time 282.900000 reading sensor Sensor::gps current queue 88
+Time 282.950000 sensor Sensor::gps reading completed
+Time 283.137844 Uploading 88 bytes, remaining 0 in queue
+Time 283.560000 Upload completed
+----- 4.760000 delay encountered
+----- 3.210000 delay encountered
+----- 3.210000 delay encountered
+----- 2.710000 delay encountered
+----- 0.760000 delay encountered
+----- 0.660000 delay encountered
+Time 284.017844 Uploading 0 bytes, remaining 0 in queue
+Time 284.017844 Upload completed
+Time 284.950000 reading sensor Sensor::gps current queue 20
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 285.000000 sensor Sensor::gps reading completed
+Time 287.000000 reading sensor Sensor::gps current queue 40
+Time 287.050000 sensor Sensor::gps reading completed
+Time 288.360000 reading sensor Sensor::ch4 current queue 48
+Time 288.360000 reading sensor Sensor::co2 current queue 56
+Time 288.370000 sensor Sensor::ch4 reading completed
+Time 288.370000 sensor Sensor::co2 reading completed
+Time 288.560000 Uploading 56 bytes, remaining 0 in queue
+Time 289.017844 Upload completed
+----- 4.067844 delay encountered
+----- 2.017844 delay encountered
+----- 0.657844 delay encountered
+----- 0.657844 delay encountered
+Time 289.050000 reading sensor Sensor::gps current queue 20
+Time 289.100000 sensor Sensor::gps reading completed
+Time 289.120000 Uploading 20 bytes, remaining 0 in queue
+Time 289.320000 Upload completed
+----- 0.270000 delay encountered
+Time 291.100000 reading sensor Sensor::gps current queue 20
+Time 291.150000 sensor Sensor::gps reading completed
+Time 292.900000 reading sensor Sensor::temp_hum current queue 32
+Time 293.000000 sensor Sensor::temp_hum reading completed
+Time 293.150000 reading sensor Sensor::gps current queue 52
+Time 293.200000 sensor Sensor::gps reading completed
+Time 294.017844 Uploading 52 bytes, remaining 0 in queue
+Time 294.320000 Upload completed
+----- 3.220000 delay encountered
+----- 1.420000 delay encountered
+----- 1.170000 delay encountered
+Time 294.537844 Uploading 0 bytes, remaining 0 in queue
+Time 294.537844 Upload completed
+Time 295.200000 reading sensor Sensor::gps current queue 20
+Time 295.250000 sensor Sensor::gps reading completed
+Time 296.370000 reading sensor Sensor::ch4 current queue 28
+Time 296.370000 reading sensor Sensor::co2 current queue 36
+Time 296.380000 sensor Sensor::ch4 reading completed
+Time 296.380000 sensor Sensor::co2 reading completed
+Time 297.250000 reading sensor Sensor::gps current queue 56
+Time 297.300000 sensor Sensor::gps reading completed
+Time 299.300000 reading sensor Sensor::gps current queue 76
+Time 299.320000 Uploading 76 bytes, remaining 0 in queue
+Time 299.350000 sensor Sensor::gps reading completed
+Time 299.537844 Upload completed
+----- 4.337844 delay encountered
+----- 3.167844 delay encountered
+----- 3.167844 delay encountered
+----- 2.287844 delay encountered
+----- 0.237844 delay encountered
+Time 300.080000 Uploading 0 bytes, remaining 0 in queue
+Time 300.080000 Upload completed
+Time 301.350000 reading sensor Sensor::gps current queue 20
+Time 301.400000 sensor Sensor::gps reading completed
+Time 303.000000 reading sensor Sensor::temp_hum current queue 32
+Time 303.100000 sensor Sensor::temp_hum reading completed
+Time 303.400000 reading sensor Sensor::gps current queue 52
+Time 303.450000 sensor Sensor::gps reading completed
+Time 304.380000 reading sensor Sensor::ch4 current queue 60
+Time 304.380000 reading sensor Sensor::co2 current queue 68
+Time 304.390000 sensor Sensor::ch4 reading completed
+Time 304.390000 sensor Sensor::co2 reading completed
+Time 304.537844 Uploading 68 bytes, remaining 0 in queue
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 305.080000 Upload completed
+----- 3.730000 delay encountered
+----- 2.080000 delay encountered
+----- 1.680000 delay encountered
+----- 0.700000 delay encountered
+----- 0.700000 delay encountered
+Time 305.217844 Uploading 0 bytes, remaining 0 in queue
+Time 305.217844 Upload completed
+Time 305.450000 reading sensor Sensor::gps current queue 20
+Time 305.500000 sensor Sensor::gps reading completed
+Time 307.500000 reading sensor Sensor::gps current queue 40
+Time 307.550000 sensor Sensor::gps reading completed
+Time 309.550000 reading sensor Sensor::gps current queue 60
+Time 309.600000 sensor Sensor::gps reading completed
+Time 310.080000 Uploading 60 bytes, remaining 0 in queue
+Time 310.217844 Upload completed
+----- 4.767844 delay encountered
+----- 2.717844 delay encountered
+----- 0.667844 delay encountered
+Time 310.680000 Uploading 0 bytes, remaining 0 in queue
+Time 310.680000 Upload completed
+Time 311.600000 reading sensor Sensor::gps current queue 20
+Time 311.650000 sensor Sensor::gps reading completed
+Time 312.390000 reading sensor Sensor::ch4 current queue 28
+Time 312.390000 reading sensor Sensor::co2 current queue 36
+Time 312.400000 sensor Sensor::ch4 reading completed
+Time 312.400000 sensor Sensor::co2 reading completed
+Time 313.100000 reading sensor Sensor::temp_hum current queue 48
+Time 313.200000 sensor Sensor::temp_hum reading completed
+Time 313.650000 reading sensor Sensor::gps current queue 68
+Time 313.700000 sensor Sensor::gps reading completed
+Time 315.217844 Uploading 68 bytes, remaining 0 in queue
+Time 315.680000 Upload completed
+----- 4.080000 delay encountered
+----- 3.290000 delay encountered
+----- 3.290000 delay encountered
+----- 2.580000 delay encountered
+----- 2.030000 delay encountered
+Time 315.700000 reading sensor Sensor::gps current queue 20
+Time 315.750000 sensor Sensor::gps reading completed
+Time 315.897844 Uploading 20 bytes, remaining 0 in queue
+Time 316.097844 Upload completed
+----- 0.397844 delay encountered
+Time 317.750000 reading sensor Sensor::gps current queue 20
+Time 317.800000 sensor Sensor::gps reading completed
+Time 319.800000 reading sensor Sensor::gps current queue 40
+Time 319.850000 sensor Sensor::gps reading completed
+Time 320.400000 reading sensor Sensor::ch4 current queue 48
+Time 320.400000 reading sensor Sensor::co2 current queue 56
+Time 320.410000 sensor Sensor::ch4 reading completed
+Time 320.410000 sensor Sensor::co2 reading completed
+Time 320.680000 Uploading 56 bytes, remaining 0 in queue
+Time 321.097844 Upload completed
+----- 3.347844 delay encountered
+----- 1.297844 delay encountered
+----- 0.697844 delay encountered
+----- 0.697844 delay encountered
+Time 321.240000 Uploading 0 bytes, remaining 0 in queue
+Time 321.240000 Upload completed
+Time 321.850000 reading sensor Sensor::gps current queue 20
+Time 321.900000 sensor Sensor::gps reading completed
+Time 323.200000 reading sensor Sensor::temp_hum current queue 32
+Time 323.300000 sensor Sensor::temp_hum reading completed
+Time 323.900000 reading sensor Sensor::gps current queue 52
+Time 323.950000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 325.950000 reading sensor Sensor::gps current queue 72
+Time 326.000000 sensor Sensor::gps reading completed
+Time 326.097844 Uploading 72 bytes, remaining 0 in queue
+Time 326.240000 Upload completed
+----- 4.390000 delay encountered
+----- 3.040000 delay encountered
+----- 2.340000 delay encountered
+----- 0.290000 delay encountered
+Time 326.817844 Uploading 0 bytes, remaining 0 in queue
+Time 326.817844 Upload completed
+Time 328.000000 reading sensor Sensor::gps current queue 20
+Time 328.050000 sensor Sensor::gps reading completed
+Time 328.410000 reading sensor Sensor::ch4 current queue 28
+Time 328.410000 reading sensor Sensor::co2 current queue 36
+Time 328.420000 sensor Sensor::ch4 reading completed
+Time 328.420000 sensor Sensor::co2 reading completed
+Time 328.943831 Uploader down
+Time 330.050000 reading sensor Sensor::gps current queue 56
+Time 330.100000 sensor Sensor::gps reading completed
+Time 332.100000 reading sensor Sensor::gps current queue 76
+Time 332.150000 sensor Sensor::gps reading completed
+Time 333.300000 reading sensor Sensor::temp_hum current queue 88
+Time 333.400000 sensor Sensor::temp_hum reading completed
+Time 334.150000 reading sensor Sensor::gps current queue 108
+Time 334.173518 Uploader Up
+Time 334.173518 Uploading 108 bytes, remaining 0 in queue
+Time 334.200000 sensor Sensor::gps reading completed
+Time 335.253518 Upload completed
+----- 7.253518 delay encountered
+----- 6.843518 delay encountered
+----- 6.843518 delay encountered
+----- 5.203518 delay encountered
+----- 3.153518 delay encountered
+----- 1.953518 delay encountered
+----- 1.103518 delay encountered
+Time 336.200000 reading sensor Sensor::gps current queue 20
+Time 336.250000 sensor Sensor::gps reading completed
+Time 336.420000 reading sensor Sensor::ch4 current queue 28
+Time 336.420000 reading sensor Sensor::co2 current queue 36
+Time 336.430000 sensor Sensor::ch4 reading completed
+Time 336.430000 sensor Sensor::co2 reading completed
+Time 338.250000 reading sensor Sensor::gps current queue 56
+Time 338.300000 sensor Sensor::gps reading completed
+Time 340.253518 Uploading 56 bytes, remaining 0 in queue
+Time 340.300000 reading sensor Sensor::gps current queue 20
+Time 340.350000 sensor Sensor::gps reading completed
+Time 340.813518 Upload completed
+----- 4.613518 delay encountered
+----- 4.393518 delay encountered
+----- 4.393518 delay encountered
+----- 2.563518 delay encountered
+Time 342.350000 reading sensor Sensor::gps current queue 40
+Time 342.400000 sensor Sensor::gps reading completed
+Time 343.400000 reading sensor Sensor::temp_hum current queue 52
+Time 343.500000 sensor Sensor::temp_hum reading completed
+Time 344.400000 reading sensor Sensor::gps current queue 72
+Time 344.430000 reading sensor Sensor::ch4 current queue 80
+Time 344.430000 reading sensor Sensor::co2 current queue 88
+Time 344.440000 sensor Sensor::ch4 reading completed
+Time 344.440000 sensor Sensor::co2 reading completed
+Time 344.450000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 345.813518 Uploading 88 bytes, remaining 0 in queue
+Time 346.450000 reading sensor Sensor::gps current queue 20
+Time 346.500000 sensor Sensor::gps reading completed
+Time 346.693518 Upload completed
+----- 6.393518 delay encountered
+----- 4.343518 delay encountered
+----- 3.293518 delay encountered
+----- 2.293518 delay encountered
+----- 2.263518 delay encountered
+----- 2.263518 delay encountered
+Time 348.500000 reading sensor Sensor::gps current queue 40
+Time 348.550000 sensor Sensor::gps reading completed
+Time 350.550000 reading sensor Sensor::gps current queue 60
+Time 350.600000 sensor Sensor::gps reading completed
+Time 351.693518 Uploading 60 bytes, remaining 0 in queue
+Time 352.293518 Upload completed
+----- 5.843518 delay encountered
+----- 3.793518 delay encountered
+----- 1.743518 delay encountered
+Time 352.440000 reading sensor Sensor::ch4 current queue 8
+Time 352.440000 reading sensor Sensor::co2 current queue 16
+Time 352.450000 sensor Sensor::ch4 reading completed
+Time 352.450000 sensor Sensor::co2 reading completed
+Time 352.600000 reading sensor Sensor::gps current queue 36
+Time 352.650000 sensor Sensor::gps reading completed
+Time 353.500000 reading sensor Sensor::temp_hum current queue 48
+Time 353.600000 sensor Sensor::temp_hum reading completed
+Time 354.650000 reading sensor Sensor::gps current queue 68
+Time 354.700000 sensor Sensor::gps reading completed
+Time 356.700000 reading sensor Sensor::gps current queue 88
+Time 356.750000 sensor Sensor::gps reading completed
+Time 357.293518 Uploading 88 bytes, remaining 0 in queue
+Time 358.173518 Upload completed
+----- 5.733518 delay encountered
+----- 5.733518 delay encountered
+----- 5.573518 delay encountered
+----- 4.673518 delay encountered
+----- 3.523518 delay encountered
+----- 1.473518 delay encountered
+Time 358.750000 reading sensor Sensor::gps current queue 20
+Time 358.800000 sensor Sensor::gps reading completed
+Time 360.450000 reading sensor Sensor::ch4 current queue 28
+Time 360.450000 reading sensor Sensor::co2 current queue 36
+Time 360.460000 sensor Sensor::ch4 reading completed
+Time 360.460000 sensor Sensor::co2 reading completed
+Time 360.800000 reading sensor Sensor::gps current queue 56
+Time 360.850000 sensor Sensor::gps reading completed
+Time 362.850000 reading sensor Sensor::gps current queue 76
+Time 362.900000 sensor Sensor::gps reading completed
+Time 363.173518 Uploading 76 bytes, remaining 0 in queue
+Time 363.600000 reading sensor Sensor::temp_hum current queue 12
+Time 363.700000 sensor Sensor::temp_hum reading completed
+Time 363.933518 Upload completed
+----- 5.183518 delay encountered
+----- 3.483518 delay encountered
+----- 3.483518 delay encountered
+----- 3.133518 delay encountered
+----- 1.083518 delay encountered
+Time 364.900000 reading sensor Sensor::gps current queue 32
+Time 364.950000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 366.950000 reading sensor Sensor::gps current queue 52
+Time 367.000000 sensor Sensor::gps reading completed
+Time 368.460000 reading sensor Sensor::ch4 current queue 60
+Time 368.460000 reading sensor Sensor::co2 current queue 68
+Time 368.470000 sensor Sensor::ch4 reading completed
+Time 368.470000 sensor Sensor::co2 reading completed
+Time 368.933518 Uploading 68 bytes, remaining 0 in queue
+Time 369.000000 reading sensor Sensor::gps current queue 20
+Time 369.050000 sensor Sensor::gps reading completed
+Time 369.613518 Upload completed
+----- 6.013518 delay encountered
+----- 4.713518 delay encountered
+----- 2.663518 delay encountered
+----- 1.153518 delay encountered
+----- 1.153518 delay encountered
+Time 371.050000 reading sensor Sensor::gps current queue 40
+Time 371.100000 sensor Sensor::gps reading completed
+Time 373.100000 reading sensor Sensor::gps current queue 60
+Time 373.150000 sensor Sensor::gps reading completed
+Time 373.700000 reading sensor Sensor::temp_hum current queue 72
+Time 373.800000 sensor Sensor::temp_hum reading completed
+Time 374.613518 Uploading 72 bytes, remaining 0 in queue
+Time 375.150000 reading sensor Sensor::gps current queue 20
+Time 375.200000 sensor Sensor::gps reading completed
+Time 375.333518 Upload completed
+----- 6.333518 delay encountered
+----- 4.283518 delay encountered
+----- 2.233518 delay encountered
+----- 1.633518 delay encountered
+Time 376.470000 reading sensor Sensor::ch4 current queue 28
+Time 376.470000 reading sensor Sensor::co2 current queue 36
+Time 376.480000 sensor Sensor::ch4 reading completed
+Time 376.480000 sensor Sensor::co2 reading completed
+Time 377.200000 reading sensor Sensor::gps current queue 56
+Time 377.250000 sensor Sensor::gps reading completed
+Time 379.250000 reading sensor Sensor::gps current queue 76
+Time 379.300000 sensor Sensor::gps reading completed
+Time 380.333518 Uploading 76 bytes, remaining 0 in queue
+Time 381.093518 Upload completed
+----- 5.943518 delay encountered
+----- 4.623518 delay encountered
+----- 4.623518 delay encountered
+----- 3.893518 delay encountered
+----- 1.843518 delay encountered
+Time 381.300000 reading sensor Sensor::gps current queue 20
+Time 381.350000 sensor Sensor::gps reading completed
+Time 383.350000 reading sensor Sensor::gps current queue 40
+Time 383.400000 sensor Sensor::gps reading completed
+Time 383.800000 reading sensor Sensor::temp_hum current queue 52
+Time 383.900000 sensor Sensor::temp_hum reading completed
+Time 384.480000 reading sensor Sensor::ch4 current queue 60
+Time 384.480000 reading sensor Sensor::co2 current queue 68
+Time 384.490000 sensor Sensor::ch4 reading completed
+Time 384.490000 sensor Sensor::co2 reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 385.400000 reading sensor Sensor::gps current queue 88
+Time 385.450000 sensor Sensor::gps reading completed
+Time 386.093518 Uploading 88 bytes, remaining 0 in queue
+Time 386.973518 Upload completed
+----- 5.673518 delay encountered
+----- 3.623518 delay encountered
+----- 3.173518 delay encountered
+----- 2.493518 delay encountered
+----- 2.493518 delay encountered
+----- 1.573518 delay encountered
+Time 387.450000 reading sensor Sensor::gps current queue 20
+Time 387.500000 sensor Sensor::gps reading completed
+Time 389.500000 reading sensor Sensor::gps current queue 40
+Time 389.550000 sensor Sensor::gps reading completed
+Time 391.550000 reading sensor Sensor::gps current queue 60
+Time 391.600000 sensor Sensor::gps reading completed
+Time 391.973518 Uploading 60 bytes, remaining 0 in queue
+Time 392.490000 reading sensor Sensor::ch4 current queue 8
+Time 392.490000 reading sensor Sensor::co2 current queue 16
+Time 392.500000 sensor Sensor::ch4 reading completed
+Time 392.500000 sensor Sensor::co2 reading completed
+Time 392.573518 Upload completed
+----- 5.123518 delay encountered
+----- 3.073518 delay encountered
+----- 1.023518 delay encountered
+Time 393.600000 reading sensor Sensor::gps current queue 36
+Time 393.650000 sensor Sensor::gps reading completed
+Time 393.900000 reading sensor Sensor::temp_hum current queue 48
+Time 394.000000 sensor Sensor::temp_hum reading completed
+Time 395.650000 reading sensor Sensor::gps current queue 68
+Time 395.700000 sensor Sensor::gps reading completed
+Time 397.573518 Uploading 68 bytes, remaining 0 in queue
+Time 397.700000 reading sensor Sensor::gps current queue 20
+Time 397.750000 sensor Sensor::gps reading completed
+Time 398.253518 Upload completed
+----- 5.763518 delay encountered
+----- 5.763518 delay encountered
+----- 4.653518 delay encountered
+----- 4.353518 delay encountered
+----- 2.603518 delay encountered
+Time 399.750000 reading sensor Sensor::gps current queue 40
+Time 399.800000 sensor Sensor::gps reading completed
+Time 400.500000 reading sensor Sensor::ch4 current queue 48
+Time 400.500000 reading sensor Sensor::co2 current queue 56
+Time 400.510000 sensor Sensor::ch4 reading completed
+Time 400.510000 sensor Sensor::co2 reading completed
+Time 401.800000 reading sensor Sensor::gps current queue 76
+Time 401.850000 sensor Sensor::gps reading completed
+Time 403.253518 Uploading 76 bytes, remaining 0 in queue
+Time 403.850000 reading sensor Sensor::gps current queue 20
+Time 403.900000 sensor Sensor::gps reading completed
+Time 404.000000 reading sensor Sensor::temp_hum current queue 32
+Time 404.013518 Upload completed
+----- 6.313518 delay encountered
+----- 4.263518 delay encountered
+----- 3.513518 delay encountered
+----- 3.513518 delay encountered
+----- 2.213518 delay encountered
+Time 404.100000 sensor Sensor::temp_hum reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 405.900000 reading sensor Sensor::gps current queue 52
+Time 405.950000 sensor Sensor::gps reading completed
+Time 407.950000 reading sensor Sensor::gps current queue 72
+Time 408.000000 sensor Sensor::gps reading completed
+Time 408.510000 reading sensor Sensor::ch4 current queue 80
+Time 408.510000 reading sensor Sensor::co2 current queue 88
+Time 408.520000 sensor Sensor::ch4 reading completed
+Time 408.520000 sensor Sensor::co2 reading completed
+Time 409.013518 Uploading 88 bytes, remaining 0 in queue
+Time 409.893518 Upload completed
+----- 6.043518 delay encountered
+----- 5.893518 delay encountered
+----- 3.993518 delay encountered
+----- 1.943518 delay encountered
+----- 1.383518 delay encountered
+----- 1.383518 delay encountered
+Time 410.000000 reading sensor Sensor::gps current queue 20
+Time 410.050000 sensor Sensor::gps reading completed
+Time 412.050000 reading sensor Sensor::gps current queue 40
+Time 412.100000 sensor Sensor::gps reading completed
+Time 414.100000 reading sensor Sensor::temp_hum current queue 52
+Time 414.100000 reading sensor Sensor::gps current queue 72
+Time 414.150000 sensor Sensor::gps reading completed
+Time 414.200000 sensor Sensor::temp_hum reading completed
+Time 414.893518 Uploading 72 bytes, remaining 0 in queue
+Time 415.613518 Upload completed
+----- 5.613518 delay encountered
+----- 3.563518 delay encountered
+----- 1.513518 delay encountered
+----- 1.513518 delay encountered
+Time 416.150000 reading sensor Sensor::gps current queue 20
+Time 416.200000 sensor Sensor::gps reading completed
+Time 416.520000 reading sensor Sensor::ch4 current queue 28
+Time 416.520000 reading sensor Sensor::co2 current queue 36
+Time 416.530000 sensor Sensor::ch4 reading completed
+Time 416.530000 sensor Sensor::co2 reading completed
+Time 418.200000 reading sensor Sensor::gps current queue 56
+Time 418.250000 sensor Sensor::gps reading completed
+Time 420.250000 reading sensor Sensor::gps current queue 76
+Time 420.300000 sensor Sensor::gps reading completed
+Time 420.613518 Uploading 76 bytes, remaining 0 in queue
+Time 421.373518 Upload completed
+----- 5.223518 delay encountered
+----- 4.853518 delay encountered
+----- 4.853518 delay encountered
+----- 3.173518 delay encountered
+----- 1.123518 delay encountered
+Time 422.300000 reading sensor Sensor::gps current queue 20
+Time 422.350000 sensor Sensor::gps reading completed
+Time 424.200000 reading sensor Sensor::temp_hum current queue 32
+Time 424.300000 sensor Sensor::temp_hum reading completed
+Time 424.350000 reading sensor Sensor::gps current queue 52
+Time 424.400000 sensor Sensor::gps reading completed
+Time 424.530000 reading sensor Sensor::ch4 current queue 60
+Time 424.530000 reading sensor Sensor::co2 current queue 68
+Time 424.540000 sensor Sensor::ch4 reading completed
+Time 424.540000 sensor Sensor::co2 reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 426.373518 Uploading 68 bytes, remaining 0 in queue
+Time 426.400000 reading sensor Sensor::gps current queue 20
+Time 426.450000 sensor Sensor::gps reading completed
+Time 427.053518 Upload completed
+----- 4.753518 delay encountered
+----- 2.853518 delay encountered
+----- 2.703518 delay encountered
+----- 2.523518 delay encountered
+----- 2.523518 delay encountered
+Time 428.450000 reading sensor Sensor::gps current queue 40
+Time 428.500000 sensor Sensor::gps reading completed
+Time 430.500000 reading sensor Sensor::gps current queue 60
+Time 430.550000 sensor Sensor::gps reading completed
+Time 432.053518 Uploading 60 bytes, remaining 0 in queue
+Time 432.540000 reading sensor Sensor::ch4 current queue 8
+Time 432.540000 reading sensor Sensor::co2 current queue 16
+Time 432.550000 sensor Sensor::ch4 reading completed
+Time 432.550000 sensor Sensor::co2 reading completed
+Time 432.550000 reading sensor Sensor::gps current queue 36
+Time 432.600000 sensor Sensor::gps reading completed
+Time 432.653518 Upload completed
+----- 6.253518 delay encountered
+----- 4.203518 delay encountered
+----- 2.153518 delay encountered
+Time 434.300000 reading sensor Sensor::temp_hum current queue 48
+Time 434.400000 sensor Sensor::temp_hum reading completed
+Time 434.600000 reading sensor Sensor::gps current queue 68
+Time 434.650000 sensor Sensor::gps reading completed
+Time 436.650000 reading sensor Sensor::gps current queue 88
+Time 436.700000 sensor Sensor::gps reading completed
+Time 437.653518 Uploading 88 bytes, remaining 0 in queue
+Time 438.533518 Upload completed
+----- 5.993518 delay encountered
+----- 5.993518 delay encountered
+----- 5.983518 delay encountered
+----- 4.233518 delay encountered
+----- 3.933518 delay encountered
+----- 1.883518 delay encountered
+Time 438.700000 reading sensor Sensor::gps current queue 20
+Time 438.750000 sensor Sensor::gps reading completed
+Time 440.550000 reading sensor Sensor::ch4 current queue 28
+Time 440.550000 reading sensor Sensor::co2 current queue 36
+Time 440.560000 sensor Sensor::ch4 reading completed
+Time 440.560000 sensor Sensor::co2 reading completed
+Time 440.750000 reading sensor Sensor::gps current queue 56
+Time 440.800000 sensor Sensor::gps reading completed
+Time 442.800000 reading sensor Sensor::gps current queue 76
+Time 442.850000 sensor Sensor::gps reading completed
+Time 443.533518 Uploading 76 bytes, remaining 0 in queue
+Time 444.293518 Upload completed
+----- 5.593518 delay encountered
+----- 3.743518 delay encountered
+----- 3.743518 delay encountered
+----- 3.543518 delay encountered
+----- 1.493518 delay encountered
+Time 444.400000 reading sensor Sensor::temp_hum current queue 12
+Time 444.500000 sensor Sensor::temp_hum reading completed
+Time 444.850000 reading sensor Sensor::gps current queue 32
+Time 444.900000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 446.900000 reading sensor Sensor::gps current queue 52
+Time 446.950000 sensor Sensor::gps reading completed
+Time 448.560000 reading sensor Sensor::ch4 current queue 60
+Time 448.560000 reading sensor Sensor::co2 current queue 68
+Time 448.570000 sensor Sensor::ch4 reading completed
+Time 448.570000 sensor Sensor::co2 reading completed
+Time 448.950000 reading sensor Sensor::gps current queue 88
+Time 449.000000 sensor Sensor::gps reading completed
+Time 449.293518 Uploading 88 bytes, remaining 0 in queue
+Time 450.173518 Upload completed
+----- 5.773518 delay encountered
+----- 5.323518 delay encountered
+----- 3.273518 delay encountered
+----- 1.613518 delay encountered
+----- 1.613518 delay encountered
+----- 1.223518 delay encountered
+Time 451.000000 reading sensor Sensor::gps current queue 20
+Time 451.050000 sensor Sensor::gps reading completed
+Time 453.050000 reading sensor Sensor::gps current queue 40
+Time 453.100000 sensor Sensor::gps reading completed
+Time 454.500000 reading sensor Sensor::temp_hum current queue 52
+Time 454.600000 sensor Sensor::temp_hum reading completed
+Time 455.100000 reading sensor Sensor::gps current queue 72
+Time 455.150000 sensor Sensor::gps reading completed
+Time 455.173518 Uploading 72 bytes, remaining 0 in queue
+Time 455.893518 Upload completed
+----- 4.893518 delay encountered
+----- 2.843518 delay encountered
+----- 1.393518 delay encountered
+----- 0.793518 delay encountered
+Time 456.570000 reading sensor Sensor::ch4 current queue 8
+Time 456.570000 reading sensor Sensor::co2 current queue 16
+Time 456.580000 sensor Sensor::ch4 reading completed
+Time 456.580000 sensor Sensor::co2 reading completed
+Time 457.150000 reading sensor Sensor::gps current queue 36
+Time 457.200000 sensor Sensor::gps reading completed
+Time 459.200000 reading sensor Sensor::gps current queue 56
+Time 459.250000 sensor Sensor::gps reading completed
+Time 460.893518 Uploading 56 bytes, remaining 0 in queue
+Time 461.250000 reading sensor Sensor::gps current queue 20
+Time 461.300000 sensor Sensor::gps reading completed
+Time 461.453518 Upload completed
+----- 4.883518 delay encountered
+----- 4.883518 delay encountered
+----- 4.303518 delay encountered
+----- 2.253518 delay encountered
+Time 463.300000 reading sensor Sensor::gps current queue 40
+Time 463.350000 sensor Sensor::gps reading completed
+Time 464.580000 reading sensor Sensor::ch4 current queue 48
+Time 464.580000 reading sensor Sensor::co2 current queue 56
+Time 464.590000 sensor Sensor::ch4 reading completed
+Time 464.590000 sensor Sensor::co2 reading completed
+Time 464.600000 reading sensor Sensor::temp_hum current queue 68
+Time 464.700000 sensor Sensor::temp_hum reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 465.350000 reading sensor Sensor::gps current queue 88
+Time 465.400000 sensor Sensor::gps reading completed
+Time 466.453518 Uploading 88 bytes, remaining 0 in queue
+Time 467.333518 Upload completed
+----- 6.083518 delay encountered
+----- 4.033518 delay encountered
+----- 2.753518 delay encountered
+----- 2.753518 delay encountered
+----- 2.733518 delay encountered
+----- 1.983518 delay encountered
+Time 467.400000 reading sensor Sensor::gps current queue 20
+Time 467.450000 sensor Sensor::gps reading completed
+Time 469.450000 reading sensor Sensor::gps current queue 40
+Time 469.500000 sensor Sensor::gps reading completed
+Time 471.500000 reading sensor Sensor::gps current queue 60
+Time 471.550000 sensor Sensor::gps reading completed
+Time 472.333518 Uploading 60 bytes, remaining 0 in queue
+Time 472.590000 reading sensor Sensor::ch4 current queue 8
+Time 472.590000 reading sensor Sensor::co2 current queue 16
+Time 472.600000 sensor Sensor::ch4 reading completed
+Time 472.600000 sensor Sensor::co2 reading completed
+Time 472.933518 Upload completed
+----- 5.533518 delay encountered
+----- 3.483518 delay encountered
+----- 1.433518 delay encountered
+Time 473.550000 reading sensor Sensor::gps current queue 36
+Time 473.600000 sensor Sensor::gps reading completed
+Time 474.700000 reading sensor Sensor::temp_hum current queue 48
+Time 474.800000 sensor Sensor::temp_hum reading completed
+Time 475.600000 reading sensor Sensor::gps current queue 68
+Time 475.650000 sensor Sensor::gps reading completed
+Time 477.650000 reading sensor Sensor::gps current queue 88
+Time 477.700000 sensor Sensor::gps reading completed
+Time 477.933518 Uploading 88 bytes, remaining 0 in queue
+Time 478.813518 Upload completed
+----- 6.223518 delay encountered
+----- 6.223518 delay encountered
+----- 5.263518 delay encountered
+----- 4.113518 delay encountered
+----- 3.213518 delay encountered
+----- 1.163518 delay encountered
+Time 479.700000 reading sensor Sensor::gps current queue 20
+Time 479.750000 sensor Sensor::gps reading completed
+Time 480.600000 reading sensor Sensor::ch4 current queue 28
+Time 480.600000 reading sensor Sensor::co2 current queue 36
+Time 480.610000 sensor Sensor::ch4 reading completed
+Time 480.610000 sensor Sensor::co2 reading completed
+Time 481.750000 reading sensor Sensor::gps current queue 56
+Time 481.800000 sensor Sensor::gps reading completed
+Time 483.800000 reading sensor Sensor::gps current queue 76
+Time 483.813518 Uploading 76 bytes, remaining 0 in queue
+Time 483.850000 sensor Sensor::gps reading completed
+Time 484.573518 Upload completed
+----- 4.873518 delay encountered
+----- 3.973518 delay encountered
+----- 3.973518 delay encountered
+----- 2.823518 delay encountered
+----- 0.773518 delay encountered
+Time 484.800000 reading sensor Sensor::temp_hum current queue 12
+Time 484.900000 sensor Sensor::temp_hum reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 485.850000 reading sensor Sensor::gps current queue 32
+Time 485.900000 sensor Sensor::gps reading completed
+Time 487.900000 reading sensor Sensor::gps current queue 52
+Time 487.950000 sensor Sensor::gps reading completed
+Time 488.610000 reading sensor Sensor::ch4 current queue 60
+Time 488.610000 reading sensor Sensor::co2 current queue 68
+Time 488.620000 sensor Sensor::ch4 reading completed
+Time 488.620000 sensor Sensor::co2 reading completed
+Time 489.573518 Uploading 68 bytes, remaining 0 in queue
+Time 489.950000 reading sensor Sensor::gps current queue 20
+Time 490.000000 sensor Sensor::gps reading completed
+Time 490.253518 Upload completed
+----- 5.453518 delay encountered
+----- 4.403518 delay encountered
+----- 2.353518 delay encountered
+----- 1.643518 delay encountered
+----- 1.643518 delay encountered
+Time 492.000000 reading sensor Sensor::gps current queue 40
+Time 492.050000 sensor Sensor::gps reading completed
+Time 494.050000 reading sensor Sensor::gps current queue 60
+Time 494.100000 sensor Sensor::gps reading completed
+Time 494.900000 reading sensor Sensor::temp_hum current queue 72
+Time 495.000000 sensor Sensor::temp_hum reading completed
+Time 495.253518 Uploading 72 bytes, remaining 0 in queue
+Time 495.973518 Upload completed
+----- 6.023518 delay encountered
+----- 3.973518 delay encountered
+----- 1.923518 delay encountered
+----- 1.073518 delay encountered
+Time 496.100000 reading sensor Sensor::gps current queue 20
+Time 496.150000 sensor Sensor::gps reading completed
+Time 496.620000 reading sensor Sensor::ch4 current queue 28
+Time 496.620000 reading sensor Sensor::co2 current queue 36
+Time 496.630000 sensor Sensor::ch4 reading completed
+Time 496.630000 sensor Sensor::co2 reading completed
+Time 498.150000 reading sensor Sensor::gps current queue 56
+Time 498.200000 sensor Sensor::gps reading completed
+Time 500.200000 reading sensor Sensor::gps current queue 76
+Time 500.250000 sensor Sensor::gps reading completed
+Time 500.973518 Uploading 76 bytes, remaining 0 in queue
+Time 501.733518 Upload completed
+----- 5.633518 delay encountered
+----- 5.113518 delay encountered
+----- 5.113518 delay encountered
+----- 3.583518 delay encountered
+----- 1.533518 delay encountered
+Time 502.250000 reading sensor Sensor::gps current queue 20
+Time 502.300000 sensor Sensor::gps reading completed
+Time 504.300000 reading sensor Sensor::gps current queue 40
+Time 504.350000 sensor Sensor::gps reading completed
+Time 504.630000 reading sensor Sensor::ch4 current queue 48
+Time 504.630000 reading sensor Sensor::co2 current queue 56
+Time 504.640000 sensor Sensor::ch4 reading completed
+Time 504.640000 sensor Sensor::co2 reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 505.000000 reading sensor Sensor::temp_hum current queue 68
+Time 505.100000 sensor Sensor::temp_hum reading completed
+Time 506.350000 reading sensor Sensor::gps current queue 88
+Time 506.400000 sensor Sensor::gps reading completed
+Time 506.733518 Uploading 88 bytes, remaining 0 in queue
+Time 507.613518 Upload completed
+----- 5.363518 delay encountered
+----- 3.313518 delay encountered
+----- 2.983518 delay encountered
+----- 2.983518 delay encountered
+----- 2.613518 delay encountered
+----- 1.263518 delay encountered
+Time 508.400000 reading sensor Sensor::gps current queue 20
+Time 508.450000 sensor Sensor::gps reading completed
+Time 510.450000 reading sensor Sensor::gps current queue 40
+Time 510.500000 sensor Sensor::gps reading completed
+Time 512.500000 reading sensor Sensor::gps current queue 60
+Time 512.550000 sensor Sensor::gps reading completed
+Time 512.613518 Uploading 60 bytes, remaining 0 in queue
+Time 512.640000 reading sensor Sensor::ch4 current queue 8
+Time 512.640000 reading sensor Sensor::co2 current queue 16
+Time 512.650000 sensor Sensor::ch4 reading completed
+Time 512.650000 sensor Sensor::co2 reading completed
+Time 513.213518 Upload completed
+----- 4.813518 delay encountered
+----- 2.763518 delay encountered
+----- 0.713518 delay encountered
+Time 514.550000 reading sensor Sensor::gps current queue 36
+Time 514.600000 sensor Sensor::gps reading completed
+Time 515.100000 reading sensor Sensor::temp_hum current queue 48
+Time 515.200000 sensor Sensor::temp_hum reading completed
+Time 516.600000 reading sensor Sensor::gps current queue 68
+Time 516.650000 sensor Sensor::gps reading completed
+Time 518.213518 Uploading 68 bytes, remaining 0 in queue
+Time 518.650000 reading sensor Sensor::gps current queue 20
+Time 518.700000 sensor Sensor::gps reading completed
+Time 518.893518 Upload completed
+----- 6.253518 delay encountered
+----- 6.253518 delay encountered
+----- 4.343518 delay encountered
+----- 3.793518 delay encountered
+----- 2.293518 delay encountered
+Time 520.650000 reading sensor Sensor::ch4 current queue 28
+Time 520.650000 reading sensor Sensor::co2 current queue 36
+Time 520.660000 sensor Sensor::ch4 reading completed
+Time 520.660000 sensor Sensor::co2 reading completed
+Time 520.700000 reading sensor Sensor::gps current queue 56
+Time 520.750000 sensor Sensor::gps reading completed
+Time 522.750000 reading sensor Sensor::gps current queue 76
+Time 522.800000 sensor Sensor::gps reading completed
+Time 523.893518 Uploading 76 bytes, remaining 0 in queue
+Time 524.653518 Upload completed
+----- 6.003518 delay encountered
+----- 4.003518 delay encountered
+----- 4.003518 delay encountered
+----- 3.953518 delay encountered
+----- 1.903518 delay encountered
+Time 524.800000 reading sensor Sensor::gps current queue 20
+Time 524.850000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 525.200000 reading sensor Sensor::temp_hum current queue 32
+Time 525.300000 sensor Sensor::temp_hum reading completed
+Time 526.850000 reading sensor Sensor::gps current queue 52
+Time 526.900000 sensor Sensor::gps reading completed
+Time 528.660000 reading sensor Sensor::ch4 current queue 60
+Time 528.660000 reading sensor Sensor::co2 current queue 68
+Time 528.670000 sensor Sensor::ch4 reading completed
+Time 528.670000 sensor Sensor::co2 reading completed
+Time 528.900000 reading sensor Sensor::gps current queue 88
+Time 528.950000 sensor Sensor::gps reading completed
+Time 529.653518 Uploading 88 bytes, remaining 0 in queue
+Time 530.533518 Upload completed
+----- 5.733518 delay encountered
+----- 5.333518 delay encountered
+----- 3.683518 delay encountered
+----- 1.873518 delay encountered
+----- 1.873518 delay encountered
+----- 1.633518 delay encountered
+Time 530.950000 reading sensor Sensor::gps current queue 20
+Time 531.000000 sensor Sensor::gps reading completed
+Time 533.000000 reading sensor Sensor::gps current queue 40
+Time 533.050000 sensor Sensor::gps reading completed
+Time 535.050000 reading sensor Sensor::gps current queue 60
+Time 535.100000 sensor Sensor::gps reading completed
+Time 535.300000 reading sensor Sensor::temp_hum current queue 72
+Time 535.400000 sensor Sensor::temp_hum reading completed
+Time 535.533518 Uploading 72 bytes, remaining 0 in queue
+Time 536.253518 Upload completed
+----- 5.303518 delay encountered
+----- 3.253518 delay encountered
+----- 1.203518 delay encountered
+----- 0.953518 delay encountered
+Time 536.670000 reading sensor Sensor::ch4 current queue 8
+Time 536.670000 reading sensor Sensor::co2 current queue 16
+Time 536.680000 sensor Sensor::ch4 reading completed
+Time 536.680000 sensor Sensor::co2 reading completed
+Time 537.100000 reading sensor Sensor::gps current queue 36
+Time 537.150000 sensor Sensor::gps reading completed
+Time 539.150000 reading sensor Sensor::gps current queue 56
+Time 539.200000 sensor Sensor::gps reading completed
+Time 541.200000 reading sensor Sensor::gps current queue 76
+Time 541.250000 sensor Sensor::gps reading completed
+Time 541.253518 Uploading 76 bytes, remaining 0 in queue
+Time 542.013518 Upload completed
+----- 5.343518 delay encountered
+----- 5.343518 delay encountered
+----- 4.913518 delay encountered
+----- 2.863518 delay encountered
+----- 0.813518 delay encountered
+Time 543.250000 reading sensor Sensor::gps current queue 20
+Time 543.300000 sensor Sensor::gps reading completed
+Time 544.680000 reading sensor Sensor::ch4 current queue 28
+Time 544.680000 reading sensor Sensor::co2 current queue 36
+Time 544.690000 sensor Sensor::ch4 reading completed
+Time 544.690000 sensor Sensor::co2 reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 545.300000 reading sensor Sensor::gps current queue 56
+Time 545.350000 sensor Sensor::gps reading completed
+Time 545.400000 reading sensor Sensor::temp_hum current queue 68
+Time 545.500000 sensor Sensor::temp_hum reading completed
+Time 547.013518 Uploading 68 bytes, remaining 0 in queue
+Time 547.350000 reading sensor Sensor::gps current queue 20
+Time 547.400000 sensor Sensor::gps reading completed
+Time 547.693518 Upload completed
+----- 4.443518 delay encountered
+----- 3.013518 delay encountered
+----- 3.013518 delay encountered
+----- 2.393518 delay encountered
+----- 2.293518 delay encountered
+Time 549.400000 reading sensor Sensor::gps current queue 40
+Time 549.450000 sensor Sensor::gps reading completed
+Time 551.450000 reading sensor Sensor::gps current queue 60
+Time 551.500000 sensor Sensor::gps reading completed
+Time 552.690000 reading sensor Sensor::ch4 current queue 68
+Time 552.690000 reading sensor Sensor::co2 current queue 76
+Time 552.693518 Uploading 76 bytes, remaining 0 in queue
+Time 552.700000 sensor Sensor::ch4 reading completed
+Time 552.700000 sensor Sensor::co2 reading completed
+Time 553.453518 Upload completed
+----- 6.103518 delay encountered
+----- 4.053518 delay encountered
+----- 2.003518 delay encountered
+----- 0.763518 delay encountered
+----- 0.763518 delay encountered
+Time 553.500000 reading sensor Sensor::gps current queue 20
+Time 553.550000 sensor Sensor::gps reading completed
+Time 555.500000 reading sensor Sensor::temp_hum current queue 32
+Time 555.550000 reading sensor Sensor::gps current queue 52
+Time 555.600000 sensor Sensor::temp_hum reading completed
+Time 555.600000 sensor Sensor::gps reading completed
+Time 557.600000 reading sensor Sensor::gps current queue 72
+Time 557.650000 sensor Sensor::gps reading completed
+Time 558.453518 Uploading 72 bytes, remaining 0 in queue
+Time 559.173518 Upload completed
+----- 5.673518 delay encountered
+----- 3.673518 delay encountered
+----- 3.623518 delay encountered
+----- 1.573518 delay encountered
+Time 559.650000 reading sensor Sensor::gps current queue 20
+Time 559.700000 sensor Sensor::gps reading completed
+Time 560.700000 reading sensor Sensor::ch4 current queue 28
+Time 560.700000 reading sensor Sensor::co2 current queue 36
+Time 560.710000 sensor Sensor::ch4 reading completed
+Time 560.710000 sensor Sensor::co2 reading completed
+Time 561.700000 reading sensor Sensor::gps current queue 56
+Time 561.750000 sensor Sensor::gps reading completed
+Time 563.750000 reading sensor Sensor::gps current queue 76
+Time 563.800000 sensor Sensor::gps reading completed
+Time 564.173518 Uploading 76 bytes, remaining 0 in queue
+Time 564.933518 Upload completed
+----- 5.283518 delay encountered
+----- 4.233518 delay encountered
+----- 4.233518 delay encountered
+----- 3.233518 delay encountered
+----- 1.183518 delay encountered
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 565.600000 reading sensor Sensor::temp_hum current queue 12
+Time 565.700000 sensor Sensor::temp_hum reading completed
+Time 565.800000 reading sensor Sensor::gps current queue 32
+Time 565.850000 sensor Sensor::gps reading completed
+Time 567.850000 reading sensor Sensor::gps current queue 52
+Time 567.900000 sensor Sensor::gps reading completed
+Time 568.710000 reading sensor Sensor::ch4 current queue 60
+Time 568.710000 reading sensor Sensor::co2 current queue 68
+Time 568.720000 sensor Sensor::ch4 reading completed
+Time 568.720000 sensor Sensor::co2 reading completed
+Time 569.900000 reading sensor Sensor::gps current queue 88
+Time 569.933518 Uploading 88 bytes, remaining 0 in queue
+Time 569.950000 sensor Sensor::gps reading completed
+Time 570.813518 Upload completed
+----- 5.213518 delay encountered
+----- 5.013518 delay encountered
+----- 2.963518 delay encountered
+----- 2.103518 delay encountered
+----- 2.103518 delay encountered
+----- 0.913518 delay encountered
+Time 571.950000 reading sensor Sensor::gps current queue 20
+Time 572.000000 sensor Sensor::gps reading completed
+Time 574.000000 reading sensor Sensor::gps current queue 40
+Time 574.050000 sensor Sensor::gps reading completed
+Time 575.700000 reading sensor Sensor::temp_hum current queue 52
+Time 575.800000 sensor Sensor::temp_hum reading completed
+Time 575.813518 Uploading 52 bytes, remaining 0 in queue
+Time 576.050000 reading sensor Sensor::gps current queue 20
+Time 576.100000 sensor Sensor::gps reading completed
+Time 576.333518 Upload completed
+----- 4.383518 delay encountered
+----- 2.333518 delay encountered
+----- 0.633518 delay encountered
+Time 576.720000 reading sensor Sensor::ch4 current queue 28
+Time 576.720000 reading sensor Sensor::co2 current queue 36
+Time 576.730000 sensor Sensor::ch4 reading completed
+Time 576.730000 sensor Sensor::co2 reading completed
+Time 578.100000 reading sensor Sensor::gps current queue 56
+Time 578.150000 sensor Sensor::gps reading completed
+Time 580.150000 reading sensor Sensor::gps current queue 76
+Time 580.200000 sensor Sensor::gps reading completed
+Time 581.333518 Uploading 76 bytes, remaining 0 in queue
+Time 582.093518 Upload completed
+----- 6.043518 delay encountered
+----- 5.373518 delay encountered
+----- 5.373518 delay encountered
+----- 3.993518 delay encountered
+----- 1.943518 delay encountered
+Time 582.200000 reading sensor Sensor::gps current queue 20
+Time 582.250000 sensor Sensor::gps reading completed
+Time 584.250000 reading sensor Sensor::gps current queue 40
+Time 584.300000 sensor Sensor::gps reading completed
+Time 584.730000 reading sensor Sensor::ch4 current queue 48
+Time 584.730000 reading sensor Sensor::co2 current queue 56
+Time 584.740000 sensor Sensor::ch4 reading completed
+Time 584.740000 sensor Sensor::co2 reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 585.800000 reading sensor Sensor::temp_hum current queue 68
+Time 585.900000 sensor Sensor::temp_hum reading completed
+Time 586.300000 reading sensor Sensor::gps current queue 88
+Time 586.350000 sensor Sensor::gps reading completed
+Time 587.093518 Uploading 88 bytes, remaining 0 in queue
+Time 587.973518 Upload completed
+----- 5.773518 delay encountered
+----- 3.723518 delay encountered
+----- 3.243518 delay encountered
+----- 3.243518 delay encountered
+----- 2.173518 delay encountered
+----- 1.673518 delay encountered
+Time 588.350000 reading sensor Sensor::gps current queue 20
+Time 588.400000 sensor Sensor::gps reading completed
+Time 590.400000 reading sensor Sensor::gps current queue 40
+Time 590.450000 sensor Sensor::gps reading completed
+Time 592.450000 reading sensor Sensor::gps current queue 60
+Time 592.500000 sensor Sensor::gps reading completed
+Time 592.740000 reading sensor Sensor::ch4 current queue 68
+Time 592.740000 reading sensor Sensor::co2 current queue 76
+Time 592.750000 sensor Sensor::ch4 reading completed
+Time 592.750000 sensor Sensor::co2 reading completed
+Time 592.973518 Uploading 76 bytes, remaining 0 in queue
+Time 593.733518 Upload completed
+----- 5.383518 delay encountered
+----- 3.333518 delay encountered
+----- 1.283518 delay encountered
+----- 0.993518 delay encountered
+----- 0.993518 delay encountered
+Time 594.500000 reading sensor Sensor::gps current queue 20
+Time 594.550000 sensor Sensor::gps reading completed
+Time 595.900000 reading sensor Sensor::temp_hum current queue 32
+Time 596.000000 sensor Sensor::temp_hum reading completed
+Time 596.550000 reading sensor Sensor::gps current queue 52
+Time 596.600000 sensor Sensor::gps reading completed
+Time 598.600000 reading sensor Sensor::gps current queue 72
+Time 598.650000 sensor Sensor::gps reading completed
+Time 598.733518 Uploading 72 bytes, remaining 0 in queue
+Time 599.453518 Upload completed
+----- 4.953518 delay encountered
+----- 3.553518 delay encountered
+----- 2.903518 delay encountered
+----- 0.853518 delay encountered
+Time 600.650000 reading sensor Sensor::gps current queue 20
+Time 600.700000 sensor Sensor::gps reading completed
+Time 600.750000 reading sensor Sensor::ch4 current queue 28
+Time 600.750000 reading sensor Sensor::co2 current queue 36
+Time 600.760000 sensor Sensor::ch4 reading completed
+Time 600.760000 sensor Sensor::co2 reading completed
+Time 602.700000 reading sensor Sensor::gps current queue 56
+Time 602.750000 sensor Sensor::gps reading completed
+Time 604.453518 Uploading 56 bytes, remaining 0 in queue
+Time 604.750000 reading sensor Sensor::gps current queue 20
+Time 604.800000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 605.013518 Upload completed
+----- 4.363518 delay encountered
+----- 4.263518 delay encountered
+----- 4.263518 delay encountered
+----- 2.313518 delay encountered
+Time 606.000000 reading sensor Sensor::temp_hum current queue 32
+Time 606.100000 sensor Sensor::temp_hum reading completed
+Time 606.800000 reading sensor Sensor::gps current queue 52
+Time 606.850000 sensor Sensor::gps reading completed
+Time 608.760000 reading sensor Sensor::ch4 current queue 60
+Time 608.760000 reading sensor Sensor::co2 current queue 68
+Time 608.770000 sensor Sensor::ch4 reading completed
+Time 608.770000 sensor Sensor::co2 reading completed
+Time 608.850000 reading sensor Sensor::gps current queue 88
+Time 608.900000 sensor Sensor::gps reading completed
+Time 610.013518 Uploading 88 bytes, remaining 0 in queue
+Time 610.893518 Upload completed
+----- 6.143518 delay encountered
+----- 4.893518 delay encountered
+----- 4.093518 delay encountered
+----- 2.133518 delay encountered
+----- 2.133518 delay encountered
+----- 2.043518 delay encountered
+Time 610.900000 reading sensor Sensor::gps current queue 20
+Time 610.950000 sensor Sensor::gps reading completed
+Time 612.950000 reading sensor Sensor::gps current queue 40
+Time 613.000000 sensor Sensor::gps reading completed
+Time 615.000000 reading sensor Sensor::gps current queue 60
+Time 615.050000 sensor Sensor::gps reading completed
+Time 615.893518 Uploading 60 bytes, remaining 0 in queue
+Time 616.100000 reading sensor Sensor::temp_hum current queue 12
+Time 616.200000 sensor Sensor::temp_hum reading completed
+Time 616.493518 Upload completed
+----- 5.593518 delay encountered
+----- 3.543518 delay encountered
+----- 1.493518 delay encountered
+Time 616.770000 reading sensor Sensor::ch4 current queue 20
+Time 616.770000 reading sensor Sensor::co2 current queue 28
+Time 616.780000 sensor Sensor::ch4 reading completed
+Time 616.780000 sensor Sensor::co2 reading completed
+Time 617.050000 reading sensor Sensor::gps current queue 48
+Time 617.100000 sensor Sensor::gps reading completed
+Time 619.100000 reading sensor Sensor::gps current queue 68
+Time 619.150000 sensor Sensor::gps reading completed
+Time 621.150000 reading sensor Sensor::gps current queue 88
+Time 621.200000 sensor Sensor::gps reading completed
+Time 621.493518 Uploading 88 bytes, remaining 0 in queue
+Time 622.373518 Upload completed
+----- 6.273518 delay encountered
+----- 5.603518 delay encountered
+----- 5.603518 delay encountered
+----- 5.323518 delay encountered
+----- 3.273518 delay encountered
+----- 1.223518 delay encountered
+Time 623.200000 reading sensor Sensor::gps current queue 20
+Time 623.250000 sensor Sensor::gps reading completed
+Time 624.780000 reading sensor Sensor::ch4 current queue 28
+Time 624.780000 reading sensor Sensor::co2 current queue 36
+Time 624.790000 sensor Sensor::ch4 reading completed
+Time 624.790000 sensor Sensor::co2 reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 625.250000 reading sensor Sensor::gps current queue 56
+Time 625.300000 sensor Sensor::gps reading completed
+Time 626.200000 reading sensor Sensor::temp_hum current queue 68
+Time 626.300000 sensor Sensor::temp_hum reading completed
+Time 627.300000 reading sensor Sensor::gps current queue 88
+Time 627.350000 sensor Sensor::gps reading completed
+Time 627.373518 Uploading 88 bytes, remaining 0 in queue
+Time 628.253518 Upload completed
+----- 5.053518 delay encountered
+----- 3.473518 delay encountered
+----- 3.473518 delay encountered
+----- 3.003518 delay encountered
+----- 2.053518 delay encountered
+----- 0.953518 delay encountered
+Time 629.350000 reading sensor Sensor::gps current queue 20
+Time 629.400000 sensor Sensor::gps reading completed
+Time 631.400000 reading sensor Sensor::gps current queue 40
+Time 631.450000 sensor Sensor::gps reading completed
+Time 632.790000 reading sensor Sensor::ch4 current queue 48
+Time 632.790000 reading sensor Sensor::co2 current queue 56
+Time 632.800000 sensor Sensor::ch4 reading completed
+Time 632.800000 sensor Sensor::co2 reading completed
+Time 633.253518 Uploading 56 bytes, remaining 0 in queue
+Time 633.450000 reading sensor Sensor::gps current queue 20
+Time 633.500000 sensor Sensor::gps reading completed
+Time 633.813518 Upload completed
+----- 4.463518 delay encountered
+----- 2.413518 delay encountered
+----- 1.023518 delay encountered
+----- 1.023518 delay encountered
+Time 635.500000 reading sensor Sensor::gps current queue 40
+Time 635.550000 sensor Sensor::gps reading completed
+Time 636.300000 reading sensor Sensor::temp_hum current queue 52
+Time 636.400000 sensor Sensor::temp_hum reading completed
+Time 637.550000 reading sensor Sensor::gps current queue 72
+Time 637.600000 sensor Sensor::gps reading completed
+Time 638.813518 Uploading 72 bytes, remaining 0 in queue
+Time 639.533518 Upload completed
+----- 6.083518 delay encountered
+----- 4.033518 delay encountered
+----- 3.233518 delay encountered
+----- 1.983518 delay encountered
+Time 639.600000 reading sensor Sensor::gps current queue 20
+Time 639.650000 sensor Sensor::gps reading completed
+Time 640.800000 reading sensor Sensor::ch4 current queue 28
+Time 640.800000 reading sensor Sensor::co2 current queue 36
+Time 640.810000 sensor Sensor::ch4 reading completed
+Time 640.810000 sensor Sensor::co2 reading completed
+Time 641.650000 reading sensor Sensor::gps current queue 56
+Time 641.700000 sensor Sensor::gps reading completed
+Time 643.700000 reading sensor Sensor::gps current queue 76
+Time 643.750000 sensor Sensor::gps reading completed
+Time 644.533518 Uploading 76 bytes, remaining 0 in queue
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 645.293518 Upload completed
+----- 5.693518 delay encountered
+----- 4.493518 delay encountered
+----- 4.493518 delay encountered
+----- 3.643518 delay encountered
+----- 1.593518 delay encountered
+Time 645.750000 reading sensor Sensor::gps current queue 20
+Time 645.800000 sensor Sensor::gps reading completed
+Time 646.400000 reading sensor Sensor::temp_hum current queue 32
+Time 646.500000 sensor Sensor::temp_hum reading completed
+Time 647.800000 reading sensor Sensor::gps current queue 52
+Time 647.850000 sensor Sensor::gps reading completed
+Time 648.810000 reading sensor Sensor::ch4 current queue 60
+Time 648.810000 reading sensor Sensor::co2 current queue 68
+Time 648.820000 sensor Sensor::ch4 reading completed
+Time 648.820000 sensor Sensor::co2 reading completed
+Time 649.850000 reading sensor Sensor::gps current queue 88
+Time 649.900000 sensor Sensor::gps reading completed
+Time 650.293518 Uploading 88 bytes, remaining 0 in queue
+Time 651.173518 Upload completed
+----- 5.423518 delay encountered
+----- 4.773518 delay encountered
+----- 3.373518 delay encountered
+----- 2.363518 delay encountered
+----- 2.363518 delay encountered
+----- 1.323518 delay encountered
+Time 651.900000 reading sensor Sensor::gps current queue 20
+Time 651.950000 sensor Sensor::gps reading completed
+Time 653.950000 reading sensor Sensor::gps current queue 40
+Time 654.000000 sensor Sensor::gps reading completed
+Time 656.000000 reading sensor Sensor::gps current queue 60
+Time 656.050000 sensor Sensor::gps reading completed
+Time 656.173518 Uploading 60 bytes, remaining 0 in queue
+Time 656.500000 reading sensor Sensor::temp_hum current queue 12
+Time 656.600000 sensor Sensor::temp_hum reading completed
+Time 656.773518 Upload completed
+----- 4.873518 delay encountered
+----- 2.823518 delay encountered
+----- 0.773518 delay encountered
+Time 656.820000 reading sensor Sensor::ch4 current queue 20
+Time 656.820000 reading sensor Sensor::co2 current queue 28
+Time 656.830000 sensor Sensor::ch4 reading completed
+Time 656.830000 sensor Sensor::co2 reading completed
+Time 658.050000 reading sensor Sensor::gps current queue 48
+Time 658.100000 sensor Sensor::gps reading completed
+Time 660.100000 reading sensor Sensor::gps current queue 68
+Time 660.150000 sensor Sensor::gps reading completed
+Time 661.773518 Uploading 68 bytes, remaining 0 in queue
+Time 662.150000 reading sensor Sensor::gps current queue 20
+Time 662.200000 sensor Sensor::gps reading completed
+Time 662.453518 Upload completed
+----- 5.953518 delay encountered
+----- 5.633518 delay encountered
+----- 5.633518 delay encountered
+----- 4.403518 delay encountered
+----- 2.353518 delay encountered
+Time 664.200000 reading sensor Sensor::gps current queue 40
+Time 664.250000 sensor Sensor::gps reading completed
+Time 664.830000 reading sensor Sensor::ch4 current queue 48
+Time 664.830000 reading sensor Sensor::co2 current queue 56
+Time 664.840000 sensor Sensor::ch4 reading completed
+Time 664.840000 sensor Sensor::co2 reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 666.250000 reading sensor Sensor::gps current queue 76
+Time 666.300000 sensor Sensor::gps reading completed
+Time 666.600000 reading sensor Sensor::temp_hum current queue 88
+Time 666.700000 sensor Sensor::temp_hum reading completed
+Time 667.453518 Uploading 88 bytes, remaining 0 in queue
+Time 668.300000 reading sensor Sensor::gps current queue 20
+Time 668.333518 Upload completed
+----- 6.183518 delay encountered
+----- 4.133518 delay encountered
+----- 3.503518 delay encountered
+----- 3.503518 delay encountered
+----- 2.083518 delay encountered
+----- 1.733518 delay encountered
+Time 668.350000 sensor Sensor::gps reading completed
+Time 670.350000 reading sensor Sensor::gps current queue 40
+Time 670.400000 sensor Sensor::gps reading completed
+Time 672.400000 reading sensor Sensor::gps current queue 60
+Time 672.450000 sensor Sensor::gps reading completed
+Time 672.840000 reading sensor Sensor::ch4 current queue 68
+Time 672.840000 reading sensor Sensor::co2 current queue 76
+Time 672.850000 sensor Sensor::ch4 reading completed
+Time 672.850000 sensor Sensor::co2 reading completed
+Time 673.333518 Uploading 76 bytes, remaining 0 in queue
+Time 674.093518 Upload completed
+----- 5.793518 delay encountered
+----- 3.743518 delay encountered
+----- 1.693518 delay encountered
+----- 1.253518 delay encountered
+----- 1.253518 delay encountered
+Time 674.450000 reading sensor Sensor::gps current queue 20
+Time 674.500000 sensor Sensor::gps reading completed
+Time 676.500000 reading sensor Sensor::gps current queue 40
+Time 676.550000 sensor Sensor::gps reading completed
+Time 676.700000 reading sensor Sensor::temp_hum current queue 52
+Time 676.800000 sensor Sensor::temp_hum reading completed
+Time 678.550000 reading sensor Sensor::gps current queue 72
+Time 678.600000 sensor Sensor::gps reading completed
+Time 679.093518 Uploading 72 bytes, remaining 0 in queue
+Time 679.813518 Upload completed
+----- 5.363518 delay encountered
+----- 3.313518 delay encountered
+----- 3.113518 delay encountered
+----- 1.263518 delay encountered
+Time 680.600000 reading sensor Sensor::gps current queue 20
+Time 680.650000 sensor Sensor::gps reading completed
+Time 680.850000 reading sensor Sensor::ch4 current queue 28
+Time 680.850000 reading sensor Sensor::co2 current queue 36
+Time 680.860000 sensor Sensor::ch4 reading completed
+Time 680.860000 sensor Sensor::co2 reading completed
+Time 682.650000 reading sensor Sensor::gps current queue 56
+Time 682.700000 sensor Sensor::gps reading completed
+Time 684.700000 reading sensor Sensor::gps current queue 76
+Time 684.750000 sensor Sensor::gps reading completed
+Time 684.813518 Uploading 76 bytes, remaining 0 in queue
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 685.573518 Upload completed
+----- 4.973518 delay encountered
+----- 4.723518 delay encountered
+----- 4.723518 delay encountered
+----- 2.923518 delay encountered
+----- 0.873518 delay encountered
+Time 686.750000 reading sensor Sensor::gps current queue 20
+Time 686.800000 sensor Sensor::gps reading completed
+Time 686.800000 reading sensor Sensor::temp_hum current queue 32
+Time 686.900000 sensor Sensor::temp_hum reading completed
+Time 688.800000 reading sensor Sensor::gps current queue 52
+Time 688.850000 sensor Sensor::gps reading completed
+Time 688.860000 reading sensor Sensor::ch4 current queue 60
+Time 688.860000 reading sensor Sensor::co2 current queue 68
+Time 688.870000 sensor Sensor::ch4 reading completed
+Time 688.870000 sensor Sensor::co2 reading completed
+Time 690.573518 Uploading 68 bytes, remaining 0 in queue
+Time 690.850000 reading sensor Sensor::gps current queue 20
+Time 690.900000 sensor Sensor::gps reading completed
+Time 691.253518 Upload completed
+----- 4.503518 delay encountered
+----- 4.453518 delay encountered
+----- 2.453518 delay encountered
+----- 2.393518 delay encountered
+----- 2.393518 delay encountered
+Time 692.900000 reading sensor Sensor::gps current queue 40
+Time 692.950000 sensor Sensor::gps reading completed
+Time 694.950000 reading sensor Sensor::gps current queue 60
+Time 695.000000 sensor Sensor::gps reading completed
+Time 696.253518 Uploading 60 bytes, remaining 0 in queue
+Time 696.853518 Upload completed
+----- 6.003518 delay encountered
+----- 3.953518 delay encountered
+----- 1.903518 delay encountered
+Time 696.870000 reading sensor Sensor::ch4 current queue 8
+Time 696.870000 reading sensor Sensor::co2 current queue 16
+Time 696.880000 sensor Sensor::ch4 reading completed
+Time 696.880000 sensor Sensor::co2 reading completed
+Time 696.900000 reading sensor Sensor::temp_hum current queue 28
+Time 697.000000 reading sensor Sensor::gps current queue 48
+Time 697.000000 sensor Sensor::temp_hum reading completed
+Time 697.050000 sensor Sensor::gps reading completed
+Time 699.050000 reading sensor Sensor::gps current queue 68
+Time 699.100000 sensor Sensor::gps reading completed
+Time 701.100000 reading sensor Sensor::gps current queue 88
+Time 701.150000 sensor Sensor::gps reading completed
+Time 701.853518 Uploading 88 bytes, remaining 0 in queue
+Time 702.733518 Upload completed
+----- 5.863518 delay encountered
+----- 5.863518 delay encountered
+----- 5.833518 delay encountered
+----- 5.733518 delay encountered
+----- 3.683518 delay encountered
+----- 1.633518 delay encountered
+Time 703.150000 reading sensor Sensor::gps current queue 20
+Time 703.200000 sensor Sensor::gps reading completed
+Time 704.880000 reading sensor Sensor::ch4 current queue 28
+Time 704.880000 reading sensor Sensor::co2 current queue 36
+Time 704.890000 sensor Sensor::ch4 reading completed
+Time 704.890000 sensor Sensor::co2 reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 705.200000 reading sensor Sensor::gps current queue 56
+Time 705.250000 sensor Sensor::gps reading completed
+Time 707.000000 reading sensor Sensor::temp_hum current queue 68
+Time 707.100000 sensor Sensor::temp_hum reading completed
+Time 707.250000 reading sensor Sensor::gps current queue 88
+Time 707.300000 sensor Sensor::gps reading completed
+Time 707.733518 Uploading 88 bytes, remaining 0 in queue
+Time 708.613518 Upload completed
+----- 5.463518 delay encountered
+----- 3.733518 delay encountered
+----- 3.733518 delay encountered
+----- 3.413518 delay encountered
+----- 1.613518 delay encountered
+----- 1.363518 delay encountered
+Time 709.300000 reading sensor Sensor::gps current queue 20
+Time 709.350000 sensor Sensor::gps reading completed
+Time 711.350000 reading sensor Sensor::gps current queue 40
+Time 711.400000 sensor Sensor::gps reading completed
+Time 712.890000 reading sensor Sensor::ch4 current queue 48
+Time 712.890000 reading sensor Sensor::co2 current queue 56
+Time 712.900000 sensor Sensor::ch4 reading completed
+Time 712.900000 sensor Sensor::co2 reading completed
+Time 713.400000 reading sensor Sensor::gps current queue 76
+Time 713.450000 sensor Sensor::gps reading completed
+Time 713.613518 Uploading 76 bytes, remaining 0 in queue
+Time 714.373518 Upload completed
+----- 5.073518 delay encountered
+----- 3.023518 delay encountered
+----- 1.483518 delay encountered
+----- 1.483518 delay encountered
+----- 0.973518 delay encountered
+Time 715.450000 reading sensor Sensor::gps current queue 20
+Time 715.500000 sensor Sensor::gps reading completed
+Time 717.100000 reading sensor Sensor::temp_hum current queue 32
+Time 717.200000 sensor Sensor::temp_hum reading completed
+Time 717.500000 reading sensor Sensor::gps current queue 52
+Time 717.550000 sensor Sensor::gps reading completed
+Time 719.373518 Uploading 52 bytes, remaining 0 in queue
+Time 719.550000 reading sensor Sensor::gps current queue 20
+Time 719.600000 sensor Sensor::gps reading completed
+Time 719.893518 Upload completed
+----- 4.443518 delay encountered
+----- 2.793518 delay encountered
+----- 2.393518 delay encountered
+Time 720.900000 reading sensor Sensor::ch4 current queue 28
+Time 720.900000 reading sensor Sensor::co2 current queue 36
+Time 720.910000 sensor Sensor::ch4 reading completed
+Time 720.910000 sensor Sensor::co2 reading completed
+Time 721.600000 reading sensor Sensor::gps current queue 56
+Time 721.650000 sensor Sensor::gps reading completed
+Time 723.650000 reading sensor Sensor::gps current queue 76
+Time 723.700000 sensor Sensor::gps reading completed
+Time 724.893518 Uploading 76 bytes, remaining 0 in queue
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 725.653518 Upload completed
+----- 6.103518 delay encountered
+----- 4.753518 delay encountered
+----- 4.753518 delay encountered
+----- 4.053518 delay encountered
+----- 2.003518 delay encountered
+Time 725.700000 reading sensor Sensor::gps current queue 20
+Time 725.750000 sensor Sensor::gps reading completed
+Time 727.200000 reading sensor Sensor::temp_hum current queue 32
+Time 727.300000 sensor Sensor::temp_hum reading completed
+Time 727.750000 reading sensor Sensor::gps current queue 52
+Time 727.800000 sensor Sensor::gps reading completed
+Time 728.910000 reading sensor Sensor::ch4 current queue 60
+Time 728.910000 reading sensor Sensor::co2 current queue 68
+Time 728.920000 sensor Sensor::ch4 reading completed
+Time 728.920000 sensor Sensor::co2 reading completed
+Time 729.800000 reading sensor Sensor::gps current queue 88
+Time 729.850000 sensor Sensor::gps reading completed
+Time 730.653518 Uploading 88 bytes, remaining 0 in queue
+Time 731.533518 Upload completed
+----- 5.833518 delay encountered
+----- 4.333518 delay encountered
+----- 3.783518 delay encountered
+----- 2.623518 delay encountered
+----- 2.623518 delay encountered
+----- 1.733518 delay encountered
+Time 731.850000 reading sensor Sensor::gps current queue 20
+Time 731.900000 sensor Sensor::gps reading completed
+Time 733.900000 reading sensor Sensor::gps current queue 40
+Time 733.950000 sensor Sensor::gps reading completed
+Time 735.950000 reading sensor Sensor::gps current queue 60
+Time 736.000000 sensor Sensor::gps reading completed
+Time 736.533518 Uploading 60 bytes, remaining 0 in queue
+Time 736.920000 reading sensor Sensor::ch4 current queue 8
+Time 736.920000 reading sensor Sensor::co2 current queue 16
+Time 736.930000 sensor Sensor::ch4 reading completed
+Time 736.930000 sensor Sensor::co2 reading completed
+Time 737.133518 Upload completed
+----- 5.283518 delay encountered
+----- 3.233518 delay encountered
+----- 1.183518 delay encountered
+Time 737.300000 reading sensor Sensor::temp_hum current queue 28
+Time 737.400000 sensor Sensor::temp_hum reading completed
+Time 738.000000 reading sensor Sensor::gps current queue 48
+Time 738.050000 sensor Sensor::gps reading completed
+Time 740.050000 reading sensor Sensor::gps current queue 68
+Time 740.100000 sensor Sensor::gps reading completed
+Time 742.100000 reading sensor Sensor::gps current queue 88
+Time 742.133518 Uploading 88 bytes, remaining 0 in queue
+Time 742.150000 sensor Sensor::gps reading completed
+Time 743.013518 Upload completed
+----- 6.093518 delay encountered
+----- 6.093518 delay encountered
+----- 5.713518 delay encountered
+----- 5.013518 delay encountered
+----- 2.963518 delay encountered
+----- 0.913518 delay encountered
+Time 744.150000 reading sensor Sensor::gps current queue 20
+Time 744.200000 sensor Sensor::gps reading completed
+Time 744.404834 Uploader down
+Time 744.930000 reading sensor Sensor::ch4 current queue 28
+Time 744.930000 reading sensor Sensor::co2 current queue 36
+Time 744.940000 sensor Sensor::ch4 reading completed
+Time 744.940000 sensor Sensor::co2 reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 746.200000 reading sensor Sensor::gps current queue 56
+Time 746.250000 sensor Sensor::gps reading completed
+Time 747.400000 reading sensor Sensor::temp_hum current queue 68
+Time 747.500000 sensor Sensor::temp_hum reading completed
+Time 748.250000 reading sensor Sensor::gps current queue 88
+Time 748.300000 sensor Sensor::gps reading completed
+Time 750.300000 reading sensor Sensor::gps current queue 108
+Time 750.350000 sensor Sensor::gps reading completed
+Time 752.350000 reading sensor Sensor::gps current queue 128
+Time 752.400000 sensor Sensor::gps reading completed
+Time 752.940000 reading sensor Sensor::ch4 current queue 136
+Time 752.940000 reading sensor Sensor::co2 current queue 144
+Time 752.950000 sensor Sensor::ch4 reading completed
+Time 752.950000 sensor Sensor::co2 reading completed
+Time 754.400000 reading sensor Sensor::gps current queue 164
+Time 754.450000 sensor Sensor::gps reading completed
+Time 756.450000 reading sensor Sensor::gps current queue 184
+Time 756.500000 sensor Sensor::gps reading completed
+Time 757.500000 reading sensor Sensor::temp_hum current queue 196
+Time 757.600000 sensor Sensor::temp_hum reading completed
+Time 758.500000 reading sensor Sensor::gps current queue 216
+Time 758.550000 sensor Sensor::gps reading completed
+Time 760.550000 reading sensor Sensor::gps current queue 236
+Time 760.600000 sensor Sensor::gps reading completed
+Time 760.950000 reading sensor Sensor::ch4 current queue 244
+Time 760.950000 reading sensor Sensor::co2 current queue 252
+Time 760.960000 sensor Sensor::ch4 reading completed
+Time 760.960000 sensor Sensor::co2 reading completed
+Time 762.600000 reading sensor Sensor::gps current queue 272
+Time 762.650000 sensor Sensor::gps reading completed
+Time 764.650000 reading sensor Sensor::gps current queue 292
+Time 764.700000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 766.700000 reading sensor Sensor::gps current queue 312
+Time 766.750000 sensor Sensor::gps reading completed
+Time 767.551297 Uploader Up
+Time 767.551297 Uploading 312 bytes, remaining 0 in queue
+Time 767.600000 reading sensor Sensor::temp_hum current queue 12
+Time 767.700000 sensor Sensor::temp_hum reading completed
+Time 768.750000 reading sensor Sensor::gps current queue 32
+Time 768.800000 sensor Sensor::gps reading completed
+Time 768.960000 reading sensor Sensor::ch4 current queue 40
+Time 768.960000 reading sensor Sensor::co2 current queue 48
+Time 768.970000 sensor Sensor::ch4 reading completed
+Time 768.970000 sensor Sensor::co2 reading completed
+Time 770.671297 Upload completed
+----- 26.521297 delay encountered
+----- 25.741297 delay encountered
+----- 25.741297 delay encountered
+----- 24.471297 delay encountered
+----- 23.271297 delay encountered
+----- 22.421297 delay encountered
+----- 20.371297 delay encountered
+----- 18.321297 delay encountered
+----- 17.731297 delay encountered
+----- 17.731297 delay encountered
+----- 16.271297 delay encountered
+----- 14.221297 delay encountered
+----- 13.171297 delay encountered
+----- 12.171297 delay encountered
+----- 10.121297 delay encountered
+----- 9.721297 delay encountered
+----- 9.721297 delay encountered
+----- 8.071297 delay encountered
+----- 6.021297 delay encountered
+----- 3.971297 delay encountered
+Time 770.800000 reading sensor Sensor::gps current queue 68
+Time 770.850000 sensor Sensor::gps reading completed
+Time 772.850000 reading sensor Sensor::gps current queue 88
+Time 772.900000 sensor Sensor::gps reading completed
+Time 774.900000 reading sensor Sensor::gps current queue 108
+Time 774.950000 sensor Sensor::gps reading completed
+Time 775.671297 Uploading 108 bytes, remaining 0 in queue
+Time 776.751297 Upload completed
+----- 9.151297 delay encountered
+----- 8.001297 delay encountered
+----- 7.791297 delay encountered
+----- 7.791297 delay encountered
+----- 5.951297 delay encountered
+----- 3.901297 delay encountered
+----- 1.851297 delay encountered
+Time 776.950000 reading sensor Sensor::gps current queue 20
+Time 776.970000 reading sensor Sensor::ch4 current queue 28
+Time 776.970000 reading sensor Sensor::co2 current queue 36
+Time 776.980000 sensor Sensor::ch4 reading completed
+Time 776.980000 sensor Sensor::co2 reading completed
+Time 777.000000 sensor Sensor::gps reading completed
+Time 777.700000 reading sensor Sensor::temp_hum current queue 48
+Time 777.800000 sensor Sensor::temp_hum reading completed
+Time 779.000000 reading sensor Sensor::gps current queue 68
+Time 779.050000 sensor Sensor::gps reading completed
+Time 781.050000 reading sensor Sensor::gps current queue 88
+Time 781.100000 sensor Sensor::gps reading completed
+Time 781.751297 Uploading 88 bytes, remaining 0 in queue
+Time 782.631297 Upload completed
+----- 5.681297 delay encountered
+----- 5.661297 delay encountered
+----- 5.661297 delay encountered
+----- 4.931297 delay encountered
+----- 3.631297 delay encountered
+----- 1.581297 delay encountered
+Time 783.100000 reading sensor Sensor::gps current queue 20
+Time 783.150000 sensor Sensor::gps reading completed
+Time 784.980000 reading sensor Sensor::ch4 current queue 28
+Time 784.980000 reading sensor Sensor::co2 current queue 36
+Time 784.990000 sensor Sensor::ch4 reading completed
+Time 784.990000 sensor Sensor::co2 reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 785.150000 reading sensor Sensor::gps current queue 56
+Time 785.200000 sensor Sensor::gps reading completed
+Time 787.200000 reading sensor Sensor::gps current queue 76
+Time 787.250000 sensor Sensor::gps reading completed
+Time 787.631297 Uploading 76 bytes, remaining 0 in queue
+Time 787.800000 reading sensor Sensor::temp_hum current queue 12
+Time 787.900000 sensor Sensor::temp_hum reading completed
+Time 788.391297 Upload completed
+----- 5.291297 delay encountered
+----- 3.411297 delay encountered
+----- 3.411297 delay encountered
+----- 3.241297 delay encountered
+----- 1.191297 delay encountered
+Time 789.250000 reading sensor Sensor::gps current queue 32
+Time 789.300000 sensor Sensor::gps reading completed
+Time 791.300000 reading sensor Sensor::gps current queue 52
+Time 791.350000 sensor Sensor::gps reading completed
+Time 792.990000 reading sensor Sensor::ch4 current queue 60
+Time 792.990000 reading sensor Sensor::co2 current queue 68
+Time 793.000000 sensor Sensor::ch4 reading completed
+Time 793.000000 sensor Sensor::co2 reading completed
+Time 793.350000 reading sensor Sensor::gps current queue 88
+Time 793.391297 Uploading 88 bytes, remaining 0 in queue
+Time 793.400000 sensor Sensor::gps reading completed
+Time 794.271297 Upload completed
+----- 6.471297 delay encountered
+----- 5.021297 delay encountered
+----- 2.971297 delay encountered
+----- 1.281297 delay encountered
+----- 1.281297 delay encountered
+----- 0.921297 delay encountered
+Time 795.400000 reading sensor Sensor::gps current queue 20
+Time 795.450000 sensor Sensor::gps reading completed
+Time 797.450000 reading sensor Sensor::gps current queue 40
+Time 797.500000 sensor Sensor::gps reading completed
+Time 797.900000 reading sensor Sensor::temp_hum current queue 52
+Time 798.000000 sensor Sensor::temp_hum reading completed
+Time 799.271297 Uploading 52 bytes, remaining 0 in queue
+Time 799.500000 reading sensor Sensor::gps current queue 20
+Time 799.550000 sensor Sensor::gps reading completed
+Time 799.791297 Upload completed
+----- 4.391297 delay encountered
+----- 2.341297 delay encountered
+----- 1.891297 delay encountered
+Time 801.000000 reading sensor Sensor::ch4 current queue 28
+Time 801.000000 reading sensor Sensor::co2 current queue 36
+Time 801.010000 sensor Sensor::ch4 reading completed
+Time 801.010000 sensor Sensor::co2 reading completed
+Time 801.550000 reading sensor Sensor::gps current queue 56
+Time 801.600000 sensor Sensor::gps reading completed
+Time 803.600000 reading sensor Sensor::gps current queue 76
+Time 803.650000 sensor Sensor::gps reading completed
+Time 804.791297 Uploading 76 bytes, remaining 0 in queue
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 805.551297 Upload completed
+----- 6.051297 delay encountered
+----- 4.551297 delay encountered
+----- 4.551297 delay encountered
+----- 4.001297 delay encountered
+----- 1.951297 delay encountered
+Time 805.650000 reading sensor Sensor::gps current queue 20
+Time 805.700000 sensor Sensor::gps reading completed
+Time 807.700000 reading sensor Sensor::gps current queue 40
+Time 807.750000 sensor Sensor::gps reading completed
+Time 808.000000 reading sensor Sensor::temp_hum current queue 52
+Time 808.100000 sensor Sensor::temp_hum reading completed
+Time 809.010000 reading sensor Sensor::ch4 current queue 60
+Time 809.010000 reading sensor Sensor::co2 current queue 68
+Time 809.020000 sensor Sensor::ch4 reading completed
+Time 809.020000 sensor Sensor::co2 reading completed
+Time 809.750000 reading sensor Sensor::gps current queue 88
+Time 809.800000 sensor Sensor::gps reading completed
+Time 810.551297 Uploading 88 bytes, remaining 0 in queue
+Time 811.431297 Upload completed
+----- 5.781297 delay encountered
+----- 3.731297 delay encountered
+----- 3.431297 delay encountered
+----- 2.421297 delay encountered
+----- 2.421297 delay encountered
+----- 1.681297 delay encountered
+Time 811.800000 reading sensor Sensor::gps current queue 20
+Time 811.850000 sensor Sensor::gps reading completed
+Time 813.850000 reading sensor Sensor::gps current queue 40
+Time 813.900000 sensor Sensor::gps reading completed
+Time 815.900000 reading sensor Sensor::gps current queue 60
+Time 815.950000 sensor Sensor::gps reading completed
+Time 816.431297 Uploading 60 bytes, remaining 0 in queue
+Time 817.020000 reading sensor Sensor::ch4 current queue 8
+Time 817.020000 reading sensor Sensor::co2 current queue 16
+Time 817.030000 sensor Sensor::ch4 reading completed
+Time 817.030000 sensor Sensor::co2 reading completed
+Time 817.031297 Upload completed
+----- 5.231297 delay encountered
+----- 3.181297 delay encountered
+----- 1.131297 delay encountered
+Time 817.950000 reading sensor Sensor::gps current queue 36
+Time 818.000000 sensor Sensor::gps reading completed
+Time 818.100000 reading sensor Sensor::temp_hum current queue 48
+Time 818.200000 sensor Sensor::temp_hum reading completed
+Time 820.000000 reading sensor Sensor::gps current queue 68
+Time 820.050000 sensor Sensor::gps reading completed
+Time 822.031297 Uploading 68 bytes, remaining 0 in queue
+Time 822.050000 reading sensor Sensor::gps current queue 20
+Time 822.100000 sensor Sensor::gps reading completed
+Time 822.711297 Upload completed
+----- 5.691297 delay encountered
+----- 5.691297 delay encountered
+----- 4.761297 delay encountered
+----- 4.611297 delay encountered
+----- 2.711297 delay encountered
+Time 824.100000 reading sensor Sensor::gps current queue 40
+Time 824.150000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 825.030000 reading sensor Sensor::ch4 current queue 48
+Time 825.030000 reading sensor Sensor::co2 current queue 56
+Time 825.040000 sensor Sensor::ch4 reading completed
+Time 825.040000 sensor Sensor::co2 reading completed
+Time 826.150000 reading sensor Sensor::gps current queue 76
+Time 826.200000 sensor Sensor::gps reading completed
+Time 827.711297 Uploading 76 bytes, remaining 0 in queue
+Time 828.200000 reading sensor Sensor::gps current queue 20
+Time 828.200000 reading sensor Sensor::temp_hum current queue 32
+Time 828.250000 sensor Sensor::gps reading completed
+Time 828.300000 sensor Sensor::temp_hum reading completed
+Time 828.471297 Upload completed
+----- 6.421297 delay encountered
+----- 4.371297 delay encountered
+----- 3.441297 delay encountered
+----- 3.441297 delay encountered
+----- 2.321297 delay encountered
+Time 830.250000 reading sensor Sensor::gps current queue 52
+Time 830.300000 sensor Sensor::gps reading completed
+Time 832.300000 reading sensor Sensor::gps current queue 72
+Time 832.350000 sensor Sensor::gps reading completed
+Time 833.040000 reading sensor Sensor::ch4 current queue 80
+Time 833.040000 reading sensor Sensor::co2 current queue 88
+Time 833.050000 sensor Sensor::ch4 reading completed
+Time 833.050000 sensor Sensor::co2 reading completed
+Time 833.471297 Uploading 88 bytes, remaining 0 in queue
+Time 834.350000 reading sensor Sensor::gps current queue 20
+Time 834.351297 Upload completed
+----- 6.151297 delay encountered
+----- 6.151297 delay encountered
+----- 4.101297 delay encountered
+----- 2.051297 delay encountered
+----- 1.311297 delay encountered
+----- 1.311297 delay encountered
+Time 834.400000 sensor Sensor::gps reading completed
+Time 836.400000 reading sensor Sensor::gps current queue 40
+Time 836.450000 sensor Sensor::gps reading completed
+Time 838.300000 reading sensor Sensor::temp_hum current queue 52
+Time 838.400000 sensor Sensor::temp_hum reading completed
+Time 838.450000 reading sensor Sensor::gps current queue 72
+Time 838.500000 sensor Sensor::gps reading completed
+Time 839.351297 Uploading 72 bytes, remaining 0 in queue
+Time 840.071297 Upload completed
+----- 5.721297 delay encountered
+----- 3.671297 delay encountered
+----- 1.771297 delay encountered
+----- 1.621297 delay encountered
+Time 840.500000 reading sensor Sensor::gps current queue 20
+Time 840.550000 sensor Sensor::gps reading completed
+Time 841.050000 reading sensor Sensor::ch4 current queue 28
+Time 841.050000 reading sensor Sensor::co2 current queue 36
+Time 841.060000 sensor Sensor::ch4 reading completed
+Time 841.060000 sensor Sensor::co2 reading completed
+Time 842.550000 reading sensor Sensor::gps current queue 56
+Time 842.600000 sensor Sensor::gps reading completed
+Time 844.600000 reading sensor Sensor::gps current queue 76
+Time 844.650000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 845.071297 Uploading 76 bytes, remaining 0 in queue
+Time 845.831297 Upload completed
+----- 5.331297 delay encountered
+----- 4.781297 delay encountered
+----- 4.781297 delay encountered
+----- 3.281297 delay encountered
+----- 1.231297 delay encountered
+Time 846.650000 reading sensor Sensor::gps current queue 20
+Time 846.700000 sensor Sensor::gps reading completed
+Time 848.400000 reading sensor Sensor::temp_hum current queue 32
+Time 848.500000 sensor Sensor::temp_hum reading completed
+Time 848.700000 reading sensor Sensor::gps current queue 52
+Time 848.750000 sensor Sensor::gps reading completed
+Time 849.060000 reading sensor Sensor::ch4 current queue 60
+Time 849.060000 reading sensor Sensor::co2 current queue 68
+Time 849.070000 sensor Sensor::ch4 reading completed
+Time 849.070000 sensor Sensor::co2 reading completed
+Time 850.750000 reading sensor Sensor::gps current queue 88
+Time 850.800000 sensor Sensor::gps reading completed
+Time 850.831297 Uploading 88 bytes, remaining 0 in queue
+Time 851.711297 Upload completed
+----- 5.061297 delay encountered
+----- 3.311297 delay encountered
+----- 3.011297 delay encountered
+----- 2.651297 delay encountered
+----- 2.651297 delay encountered
+----- 0.961297 delay encountered
+Time 852.800000 reading sensor Sensor::gps current queue 20
+Time 852.850000 sensor Sensor::gps reading completed
+Time 854.850000 reading sensor Sensor::gps current queue 40
+Time 854.900000 sensor Sensor::gps reading completed
+Time 856.711297 Uploading 40 bytes, remaining 0 in queue
+Time 856.900000 reading sensor Sensor::gps current queue 20
+Time 856.950000 sensor Sensor::gps reading completed
+Time 857.070000 reading sensor Sensor::ch4 current queue 28
+Time 857.070000 reading sensor Sensor::co2 current queue 36
+Time 857.080000 sensor Sensor::ch4 reading completed
+Time 857.080000 sensor Sensor::co2 reading completed
+Time 857.111297 Upload completed
+----- 4.311297 delay encountered
+----- 2.261297 delay encountered
+Time 858.500000 reading sensor Sensor::temp_hum current queue 48
+Time 858.600000 sensor Sensor::temp_hum reading completed
+Time 858.950000 reading sensor Sensor::gps current queue 68
+Time 859.000000 sensor Sensor::gps reading completed
+Time 861.000000 reading sensor Sensor::gps current queue 88
+Time 861.050000 sensor Sensor::gps reading completed
+Time 862.111297 Uploading 88 bytes, remaining 0 in queue
+Time 862.991297 Upload completed
+----- 6.091297 delay encountered
+----- 5.921297 delay encountered
+----- 5.921297 delay encountered
+----- 4.491297 delay encountered
+----- 4.041297 delay encountered
+----- 1.991297 delay encountered
+Time 863.050000 reading sensor Sensor::gps current queue 20
+Time 863.100000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 865.080000 reading sensor Sensor::ch4 current queue 28
+Time 865.080000 reading sensor Sensor::co2 current queue 36
+Time 865.090000 sensor Sensor::ch4 reading completed
+Time 865.090000 sensor Sensor::co2 reading completed
+Time 865.100000 reading sensor Sensor::gps current queue 56
+Time 865.150000 sensor Sensor::gps reading completed
+Time 867.150000 reading sensor Sensor::gps current queue 76
+Time 867.200000 sensor Sensor::gps reading completed
+Time 867.991297 Uploading 76 bytes, remaining 0 in queue
+Time 868.600000 reading sensor Sensor::temp_hum current queue 12
+Time 868.700000 sensor Sensor::temp_hum reading completed
+Time 868.751297 Upload completed
+----- 5.701297 delay encountered
+----- 3.671297 delay encountered
+----- 3.671297 delay encountered
+----- 3.651297 delay encountered
+----- 1.601297 delay encountered
+Time 869.200000 reading sensor Sensor::gps current queue 32
+Time 869.250000 sensor Sensor::gps reading completed
+Time 871.250000 reading sensor Sensor::gps current queue 52
+Time 871.300000 sensor Sensor::gps reading completed
+Time 873.090000 reading sensor Sensor::ch4 current queue 60
+Time 873.090000 reading sensor Sensor::co2 current queue 68
+Time 873.100000 sensor Sensor::ch4 reading completed
+Time 873.100000 sensor Sensor::co2 reading completed
+Time 873.300000 reading sensor Sensor::gps current queue 88
+Time 873.350000 sensor Sensor::gps reading completed
+Time 873.751297 Uploading 88 bytes, remaining 0 in queue
+Time 874.631297 Upload completed
+----- 6.031297 delay encountered
+----- 5.431297 delay encountered
+----- 3.381297 delay encountered
+----- 1.541297 delay encountered
+----- 1.541297 delay encountered
+----- 1.331297 delay encountered
+Time 875.350000 reading sensor Sensor::gps current queue 20
+Time 875.400000 sensor Sensor::gps reading completed
+Time 877.400000 reading sensor Sensor::gps current queue 40
+Time 877.450000 sensor Sensor::gps reading completed
+Time 878.700000 reading sensor Sensor::temp_hum current queue 52
+Time 878.800000 sensor Sensor::temp_hum reading completed
+Time 879.450000 reading sensor Sensor::gps current queue 72
+Time 879.500000 sensor Sensor::gps reading completed
+Time 879.631297 Uploading 72 bytes, remaining 0 in queue
+Time 880.351297 Upload completed
+----- 5.001297 delay encountered
+----- 2.951297 delay encountered
+----- 1.651297 delay encountered
+----- 0.901297 delay encountered
+Time 881.100000 reading sensor Sensor::ch4 current queue 8
+Time 881.100000 reading sensor Sensor::co2 current queue 16
+Time 881.110000 sensor Sensor::ch4 reading completed
+Time 881.110000 sensor Sensor::co2 reading completed
+Time 881.500000 reading sensor Sensor::gps current queue 36
+Time 881.550000 sensor Sensor::gps reading completed
+Time 883.550000 reading sensor Sensor::gps current queue 56
+Time 883.600000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 885.351297 Uploading 56 bytes, remaining 0 in queue
+Time 885.600000 reading sensor Sensor::gps current queue 20
+Time 885.650000 sensor Sensor::gps reading completed
+Time 885.911297 Upload completed
+----- 4.811297 delay encountered
+----- 4.811297 delay encountered
+----- 4.411297 delay encountered
+----- 2.361297 delay encountered
+Time 887.650000 reading sensor Sensor::gps current queue 40
+Time 887.700000 sensor Sensor::gps reading completed
+Time 888.800000 reading sensor Sensor::temp_hum current queue 52
+Time 888.900000 sensor Sensor::temp_hum reading completed
+Time 889.110000 reading sensor Sensor::ch4 current queue 60
+Time 889.110000 reading sensor Sensor::co2 current queue 68
+Time 889.120000 sensor Sensor::ch4 reading completed
+Time 889.120000 sensor Sensor::co2 reading completed
+Time 889.700000 reading sensor Sensor::gps current queue 88
+Time 889.750000 sensor Sensor::gps reading completed
+Time 890.911297 Uploading 88 bytes, remaining 0 in queue
+Time 891.750000 reading sensor Sensor::gps current queue 20
+Time 891.791297 Upload completed
+----- 6.191297 delay encountered
+----- 4.141297 delay encountered
+----- 2.991297 delay encountered
+----- 2.681297 delay encountered
+----- 2.681297 delay encountered
+----- 2.091297 delay encountered
+Time 891.800000 sensor Sensor::gps reading completed
+Time 893.800000 reading sensor Sensor::gps current queue 40
+Time 893.850000 sensor Sensor::gps reading completed
+Time 895.850000 reading sensor Sensor::gps current queue 60
+Time 895.900000 sensor Sensor::gps reading completed
+Time 896.791297 Uploading 60 bytes, remaining 0 in queue
+Time 897.120000 reading sensor Sensor::ch4 current queue 8
+Time 897.120000 reading sensor Sensor::co2 current queue 16
+Time 897.130000 sensor Sensor::ch4 reading completed
+Time 897.130000 sensor Sensor::co2 reading completed
+Time 897.391297 Upload completed
+----- 5.641297 delay encountered
+----- 3.591297 delay encountered
+----- 1.541297 delay encountered
+Time 897.900000 reading sensor Sensor::gps current queue 36
+Time 897.950000 sensor Sensor::gps reading completed
+Time 898.900000 reading sensor Sensor::temp_hum current queue 48
+Time 899.000000 sensor Sensor::temp_hum reading completed
+Time 899.950000 reading sensor Sensor::gps current queue 68
+Time 900.000000 sensor Sensor::gps reading completed
+Time 902.000000 reading sensor Sensor::gps current queue 88
+Time 902.050000 sensor Sensor::gps reading completed
+Time 902.391297 Uploading 88 bytes, remaining 0 in queue
+Time 903.271297 Upload completed
+----- 6.151297 delay encountered
+----- 6.151297 delay encountered
+----- 5.371297 delay encountered
+----- 4.371297 delay encountered
+----- 3.321297 delay encountered
+----- 1.271297 delay encountered
+Time 904.050000 reading sensor Sensor::gps current queue 20
+Time 904.100000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 905.130000 reading sensor Sensor::ch4 current queue 28
+Time 905.130000 reading sensor Sensor::co2 current queue 36
+Time 905.140000 sensor Sensor::ch4 reading completed
+Time 905.140000 sensor Sensor::co2 reading completed
+Time 906.100000 reading sensor Sensor::gps current queue 56
+Time 906.150000 sensor Sensor::gps reading completed
+Time 907.593375 Uploader down
+Time 908.150000 reading sensor Sensor::gps current queue 76
+Time 908.200000 sensor Sensor::gps reading completed
+Time 909.000000 reading sensor Sensor::temp_hum current queue 88
+Time 909.100000 sensor Sensor::temp_hum reading completed
+Time 910.200000 reading sensor Sensor::gps current queue 108
+Time 910.250000 sensor Sensor::gps reading completed
+Time 912.250000 reading sensor Sensor::gps current queue 128
+Time 912.300000 sensor Sensor::gps reading completed
+Time 913.140000 reading sensor Sensor::ch4 current queue 136
+Time 913.140000 reading sensor Sensor::co2 current queue 144
+Time 913.150000 sensor Sensor::ch4 reading completed
+Time 913.150000 sensor Sensor::co2 reading completed
+Time 914.300000 reading sensor Sensor::gps current queue 164
+Time 914.350000 sensor Sensor::gps reading completed
+Time 915.276437 Uploader Up
+Time 915.276437 Uploading 164 bytes, remaining 0 in queue
+Time 916.350000 reading sensor Sensor::gps current queue 20
+Time 916.400000 sensor Sensor::gps reading completed
+Time 916.916437 Upload completed
+----- 12.866437 delay encountered
+----- 11.786437 delay encountered
+----- 11.786437 delay encountered
+----- 10.816437 delay encountered
+----- 8.766437 delay encountered
+----- 7.916437 delay encountered
+----- 6.716437 delay encountered
+----- 4.666437 delay encountered
+----- 3.776437 delay encountered
+----- 3.776437 delay encountered
+----- 2.616437 delay encountered
+Time 918.400000 reading sensor Sensor::gps current queue 40
+Time 918.450000 sensor Sensor::gps reading completed
+Time 919.100000 reading sensor Sensor::temp_hum current queue 52
+Time 919.200000 sensor Sensor::temp_hum reading completed
+Time 920.450000 reading sensor Sensor::gps current queue 72
+Time 920.500000 sensor Sensor::gps reading completed
+Time 921.150000 reading sensor Sensor::ch4 current queue 80
+Time 921.150000 reading sensor Sensor::co2 current queue 88
+Time 921.160000 sensor Sensor::ch4 reading completed
+Time 921.160000 sensor Sensor::co2 reading completed
+Time 921.916437 Uploading 88 bytes, remaining 0 in queue
+Time 922.500000 reading sensor Sensor::gps current queue 20
+Time 922.550000 sensor Sensor::gps reading completed
+Time 922.796437 Upload completed
+----- 6.446437 delay encountered
+----- 4.396437 delay encountered
+----- 3.696437 delay encountered
+----- 2.346437 delay encountered
+----- 1.646437 delay encountered
+----- 1.646437 delay encountered
+Time 924.550000 reading sensor Sensor::gps current queue 40
+Time 924.600000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 926.600000 reading sensor Sensor::gps current queue 60
+Time 926.650000 sensor Sensor::gps reading completed
+Time 927.796437 Uploading 60 bytes, remaining 0 in queue
+Time 928.396437 Upload completed
+----- 5.896437 delay encountered
+----- 3.846437 delay encountered
+----- 1.796437 delay encountered
+Time 928.650000 reading sensor Sensor::gps current queue 20
+Time 928.700000 sensor Sensor::gps reading completed
+Time 929.160000 reading sensor Sensor::ch4 current queue 28
+Time 929.160000 reading sensor Sensor::co2 current queue 36
+Time 929.170000 sensor Sensor::ch4 reading completed
+Time 929.170000 sensor Sensor::co2 reading completed
+Time 929.200000 reading sensor Sensor::temp_hum current queue 48
+Time 929.300000 sensor Sensor::temp_hum reading completed
+Time 930.700000 reading sensor Sensor::gps current queue 68
+Time 930.750000 sensor Sensor::gps reading completed
+Time 932.750000 reading sensor Sensor::gps current queue 88
+Time 932.800000 sensor Sensor::gps reading completed
+Time 933.396437 Uploading 88 bytes, remaining 0 in queue
+Time 934.276437 Upload completed
+----- 5.626437 delay encountered
+----- 5.116437 delay encountered
+----- 5.116437 delay encountered
+----- 5.076437 delay encountered
+----- 3.576437 delay encountered
+----- 1.526437 delay encountered
+Time 934.800000 reading sensor Sensor::gps current queue 20
+Time 934.850000 sensor Sensor::gps reading completed
+Time 936.850000 reading sensor Sensor::gps current queue 40
+Time 936.900000 sensor Sensor::gps reading completed
+Time 937.170000 reading sensor Sensor::ch4 current queue 48
+Time 937.170000 reading sensor Sensor::co2 current queue 56
+Time 937.180000 sensor Sensor::ch4 reading completed
+Time 937.180000 sensor Sensor::co2 reading completed
+Time 938.900000 reading sensor Sensor::gps current queue 76
+Time 938.950000 sensor Sensor::gps reading completed
+Time 939.276437 Uploading 76 bytes, remaining 0 in queue
+Time 939.300000 reading sensor Sensor::temp_hum current queue 12
+Time 939.400000 sensor Sensor::temp_hum reading completed
+Time 940.036437 Upload completed
+----- 5.236437 delay encountered
+----- 3.186437 delay encountered
+----- 2.866437 delay encountered
+----- 2.866437 delay encountered
+----- 1.136437 delay encountered
+Time 940.950000 reading sensor Sensor::gps current queue 32
+Time 941.000000 sensor Sensor::gps reading completed
+Time 943.000000 reading sensor Sensor::gps current queue 52
+Time 943.050000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 945.036437 Uploading 52 bytes, remaining 0 in queue
+Time 945.050000 reading sensor Sensor::gps current queue 20
+Time 945.100000 sensor Sensor::gps reading completed
+Time 945.180000 reading sensor Sensor::ch4 current queue 28
+Time 945.180000 reading sensor Sensor::co2 current queue 36
+Time 945.190000 sensor Sensor::ch4 reading completed
+Time 945.190000 sensor Sensor::co2 reading completed
+Time 945.556437 Upload completed
+----- 6.256437 delay encountered
+----- 4.606437 delay encountered
+----- 2.556437 delay encountered
+Time 947.100000 reading sensor Sensor::gps current queue 56
+Time 947.150000 sensor Sensor::gps reading completed
+Time 949.150000 reading sensor Sensor::gps current queue 76
+Time 949.200000 sensor Sensor::gps reading completed
+Time 949.400000 reading sensor Sensor::temp_hum current queue 88
+Time 949.500000 sensor Sensor::temp_hum reading completed
+Time 950.556437 Uploading 88 bytes, remaining 0 in queue
+Time 951.200000 reading sensor Sensor::gps current queue 20
+Time 951.250000 sensor Sensor::gps reading completed
+Time 951.436437 Upload completed
+----- 6.386437 delay encountered
+----- 6.256437 delay encountered
+----- 6.256437 delay encountered
+----- 4.336437 delay encountered
+----- 2.286437 delay encountered
+----- 2.036437 delay encountered
+Time 953.190000 reading sensor Sensor::ch4 current queue 28
+Time 953.190000 reading sensor Sensor::co2 current queue 36
+Time 953.200000 sensor Sensor::ch4 reading completed
+Time 953.200000 sensor Sensor::co2 reading completed
+Time 953.250000 reading sensor Sensor::gps current queue 56
+Time 953.300000 sensor Sensor::gps reading completed
+Time 955.300000 reading sensor Sensor::gps current queue 76
+Time 955.350000 sensor Sensor::gps reading completed
+Time 956.436437 Uploading 76 bytes, remaining 0 in queue
+Time 957.196437 Upload completed
+----- 5.996437 delay encountered
+----- 4.006437 delay encountered
+----- 4.006437 delay encountered
+----- 3.946437 delay encountered
+----- 1.896437 delay encountered
+Time 957.350000 reading sensor Sensor::gps current queue 20
+Time 957.400000 sensor Sensor::gps reading completed
+Time 959.400000 reading sensor Sensor::gps current queue 40
+Time 959.450000 sensor Sensor::gps reading completed
+Time 959.500000 reading sensor Sensor::temp_hum current queue 52
+Time 959.600000 sensor Sensor::temp_hum reading completed
+Time 961.200000 reading sensor Sensor::ch4 current queue 60
+Time 961.200000 reading sensor Sensor::co2 current queue 68
+Time 961.210000 sensor Sensor::ch4 reading completed
+Time 961.210000 sensor Sensor::co2 reading completed
+Time 961.450000 reading sensor Sensor::gps current queue 88
+Time 961.500000 sensor Sensor::gps reading completed
+Time 962.196437 Uploading 88 bytes, remaining 0 in queue
+Time 963.076437 Upload completed
+----- 5.726437 delay encountered
+----- 3.676437 delay encountered
+----- 3.576437 delay encountered
+----- 1.876437 delay encountered
+----- 1.876437 delay encountered
+----- 1.626437 delay encountered
+Time 963.500000 reading sensor Sensor::gps current queue 20
+Time 963.550000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 965.550000 reading sensor Sensor::gps current queue 40
+Time 965.600000 sensor Sensor::gps reading completed
+Time 967.600000 reading sensor Sensor::gps current queue 60
+Time 967.650000 sensor Sensor::gps reading completed
+Time 968.076437 Uploading 60 bytes, remaining 0 in queue
+Time 968.676437 Upload completed
+----- 5.176437 delay encountered
+----- 3.126437 delay encountered
+----- 1.076437 delay encountered
+Time 969.210000 reading sensor Sensor::ch4 current queue 8
+Time 969.210000 reading sensor Sensor::co2 current queue 16
+Time 969.220000 sensor Sensor::ch4 reading completed
+Time 969.220000 sensor Sensor::co2 reading completed
+Time 969.600000 reading sensor Sensor::temp_hum current queue 28
+Time 969.650000 reading sensor Sensor::gps current queue 48
+Time 969.700000 sensor Sensor::gps reading completed
+Time 969.700000 sensor Sensor::temp_hum reading completed
+Time 971.700000 reading sensor Sensor::gps current queue 68
+Time 971.750000 sensor Sensor::gps reading completed
+Time 973.676437 Uploading 68 bytes, remaining 0 in queue
+Time 973.750000 reading sensor Sensor::gps current queue 20
+Time 973.800000 sensor Sensor::gps reading completed
+Time 974.356437 Upload completed
+----- 5.146437 delay encountered
+----- 5.146437 delay encountered
+----- 4.756437 delay encountered
+----- 4.706437 delay encountered
+----- 2.656437 delay encountered
+Time 975.800000 reading sensor Sensor::gps current queue 40
+Time 975.850000 sensor Sensor::gps reading completed
+Time 977.220000 reading sensor Sensor::ch4 current queue 48
+Time 977.220000 reading sensor Sensor::co2 current queue 56
+Time 977.230000 sensor Sensor::ch4 reading completed
+Time 977.230000 sensor Sensor::co2 reading completed
+Time 977.850000 reading sensor Sensor::gps current queue 76
+Time 977.900000 sensor Sensor::gps reading completed
+Time 979.356437 Uploading 76 bytes, remaining 0 in queue
+Time 979.700000 reading sensor Sensor::temp_hum current queue 12
+Time 979.800000 sensor Sensor::temp_hum reading completed
+Time 979.900000 reading sensor Sensor::gps current queue 32
+Time 979.950000 sensor Sensor::gps reading completed
+Time 980.116437 Upload completed
+----- 6.366437 delay encountered
+----- 4.316437 delay encountered
+----- 2.896437 delay encountered
+----- 2.896437 delay encountered
+----- 2.266437 delay encountered
+Time 981.950000 reading sensor Sensor::gps current queue 52
+Time 982.000000 sensor Sensor::gps reading completed
+Time 984.000000 reading sensor Sensor::gps current queue 72
+Time 984.050000 sensor Sensor::gps reading completed
+rate  13.2
+maximized value of the objective function 0.137385458325
+Period 0 :  10.0  sec
+Period 1 :  2.0  sec
+Period 2 :  8.0  sec
+Period 3 :  8.0  sec
+T (Time Interval to Upload) 1.02525294751 sec
+Time 985.116437 Uploading 72 bytes, remaining 0 in queue
+Time 985.230000 reading sensor Sensor::ch4 current queue 8
+Time 985.230000 reading sensor Sensor::co2 current queue 16
+Time 985.240000 sensor Sensor::ch4 reading completed
+Time 985.240000 sensor Sensor::co2 reading completed
+Time 985.836437 Upload completed
+----- 6.136437 delay encountered
+----- 5.936437 delay encountered
+----- 3.886437 delay encountered
+----- 1.836437 delay encountered
+Time 986.050000 reading sensor Sensor::gps current queue 36
+Time 986.100000 sensor Sensor::gps reading completed
+Time 988.100000 reading sensor Sensor::gps current queue 56
+Time 988.150000 sensor Sensor::gps reading completed
+Time 989.800000 reading sensor Sensor::temp_hum current queue 68
+Time 989.900000 sensor Sensor::temp_hum reading completed
+Time 990.150000 reading sensor Sensor::gps current queue 88
+Time 990.200000 sensor Sensor::gps reading completed
+Time 990.836437 Uploading 88 bytes, remaining 0 in queue
+Time 991.716437 Upload completed
+----- 6.486437 delay encountered
+----- 6.486437 delay encountered
+----- 5.666437 delay encountered
+----- 3.616437 delay encountered
+----- 1.916437 delay encountered
+----- 1.566437 delay encountered
+Time 992.200000 reading sensor Sensor::gps current queue 20
+Time 992.250000 sensor Sensor::gps reading completed
+Time 993.240000 reading sensor Sensor::ch4 current queue 28
+Time 993.240000 reading sensor Sensor::co2 current queue 36
+Time 993.250000 sensor Sensor::ch4 reading completed
+Time 993.250000 sensor Sensor::co2 reading completed
+Time 994.250000 reading sensor Sensor::gps current queue 56
+Time 994.300000 sensor Sensor::gps reading completed
+Time 996.300000 reading sensor Sensor::gps current queue 76
+Time 996.350000 sensor Sensor::gps reading completed
+Time 996.716437 Uploading 76 bytes, remaining 0 in queue
+Time 997.476437 Upload completed
+----- 5.276437 delay encountered
+----- 4.236437 delay encountered
+----- 4.236437 delay encountered
+----- 3.226437 delay encountered
+----- 1.176437 delay encountered
+Time 998.350000 reading sensor Sensor::gps current queue 20
+Time 998.400000 sensor Sensor::gps reading completed
+Time 999.900000 reading sensor Sensor::temp_hum current queue 32

@@ -1,0 +1,21 @@
+
+Λ(x,y;λ)=f(x,y)+λg(x,y)
+
+
+1. Construct the Lagrange multiplier augmented function
+
+for them,
+f(x, y) = x + y, they want to maximize this.
+g(x,y)=x^2+y^2−1=0, which is the constraint function.
+Since g(x,y)=0, we are not really changing the original function, provided that the constraint is met!
+
+
+for us,
+
+
+A(x,y; lambda) =   f(x,y) + lambda * g(x,y)
+
+f(x, y) = summation( T/p_i * v(p))
+g(x, y) = -(alpha + beta * sum(s_i/p_i) - rate * T)^2
+
+
